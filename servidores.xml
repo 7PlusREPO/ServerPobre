@@ -28,4 +28,14 @@
 </channel>
 
 
+<channel>
+<name>[B][COLOR white]SERVIDOR 3[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 2[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/Server_03.xml</externallink>
+</channel>
+
+  
+  
 </channels>
