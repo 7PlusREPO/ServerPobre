@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᴴᴰ
-magnet:?xt=urn:btih:dce09c2251bc2042b6f0591274428676ae0765f1&dn=A.Lenda.da.Serpente.2019.1080p.WEB-DL.x264.DUAL.2.0
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dce09c2251bc2042b6f0591274428676ae0765f1&dn=A.Lenda.da.Serpente.2019.1080p.WEB-DL.x264.DUAL.2.0
