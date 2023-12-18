@@ -11,14 +11,14 @@
     </items_info>
 	
     <item>
-        <title>ANIME</title>
+        <title>A Lenda da Serpente (2019)</title>
         <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dce09c2251bc2042b6f0591274428676ae0765f1&dn</link>
-        <thumbnail>http://channel.png</thumbnail>
-        <genre>Animation</genre>
-        <info>Anime teste</info>
-        <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
+        <thumbnail>https://www.themoviedb.org/t/p/original/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg</thumbnail>
+        <genre>Romance, Animação, Fantasia</genre>
+        <info>Um dia, uma jovem chamada Blanca é salva por Xuan, um caçador de cobras de um vilarejo próximo. Ela perdeu a memória e, juntos, eles partem em uma jornada para descobrir sua verdadeira identidade, desenvolvendo sentimentos mais profundos um pelo outro ao longo do caminho.</info>
+        <date>11.01.2019</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>http://fanart.jpg</fanart>
+        <fanart>https://www.themoviedb.org/t/p/original/2mU4rVU7CQBT3Rbk5JqofNA8nlX.jpg</fanart>
 		
     </item>	
 	
