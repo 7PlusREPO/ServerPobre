@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-
+https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/TESTE.xml
 <channel>
 <name>[B][COLOR orange]ATENÇÃO ATIVE A OPÇÃO PERGUNTAR NAS CONFIGURAÇÃO DO F4MTESTER! NEM TODAS AS LISTAS RODA BEM COM PLAYER PADRÃO DO F4MTESTER![/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
@@ -11,6 +11,14 @@
 <externallink>http://</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR white]TESTES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/TESTE.xml</externallink>
+</channel>
+  
 <channel>
 <name>[B][COLOR white]LANÇAMENTOS[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
