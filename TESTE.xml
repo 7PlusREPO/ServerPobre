@@ -19,11 +19,7 @@
         <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>http://fanart.jpg</fanart>
-		<regex>
-			<name>resolver</name>
-			<expres>"stream":.+?"(.*?)"</expres>
-			<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fyu-gi-oh-sevens%2Fepisodio%2F68825</page>
-		</regex>
+		
     </item>	
 	
 </items>
