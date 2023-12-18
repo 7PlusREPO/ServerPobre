@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="A Lenda da Serpente (2019)" tvg-logo="https://www.themoviedb.org/t/p/original/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg" group-title="PORTUGAL HD",A Lenda da Serpente (2019)
+#EXTINF:-1 tvg-id="A Serpente Branca" tvg-name="A Lenda da Serpente (2019)" tvg-logo="https://www.themoviedb.org/t/p/original/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg" group-title="A Lenda da Serpente",A Lenda da Serpente (2019)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dce09c2251bc2042b6f0591274428676ae0765f1&dn=A.Lenda.da.Serpente.2019.1080p.WEB-DL.x264.DUAL.2.0
