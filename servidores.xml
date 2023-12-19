@@ -3,8 +3,8 @@
 
 <channel>
 <name>[B][COLOR orange]ATENÇÃO ATIVE A OPÇÃO PERGUNTAR NAS CONFIGURAÇÃO DO F4MTESTER! NEM TODAS AS LISTAS RODA BEM COM PLAYER PADRÃO DO F4MTESTER![/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info>
 [COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline
 </info>
@@ -12,25 +12,17 @@
 </channel>
   
 <channel>
-<name>[B][COLOR white]LANÇAMENTOS[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/Lancamentos.xml</externallink>
-</channel>
-  
-<channel>
 <name>[B][COLOR white]SERVIDOR 1[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 1[/COLOR]</info>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 1[/COLOR][COLOR lime]●[/COLOR]Online</info>
 <externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/Server-01.txt</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR white]SERVIDOR 2[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info>[COLOR blue]BRASIL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/Server_02.xml</externallink>
 </channel>
@@ -38,8 +30,8 @@
 
 <channel>
 <name>[B][COLOR white]SERVIDOR 3[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info>[COLOR blue]PORTUGAL[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/Server_03.xml</externallink>
 </channel>
