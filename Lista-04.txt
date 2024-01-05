@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="http://tvipvoftuga.novo-planeta.net/xmltv.php?username=ricardoclare&password=ricardo"
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP1" tvg-logo="http://novaera4.club/logo/RTP1.png" group-title="★●• PORTUGAL ●•★",RTP1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://tvipvoftuga.novo-planeta.net:8080/ricardoclare/ricardo/56
+#EXTINF:-1 tvg-id="RTPD1" tvg-name="RTP1ᴴᴰ" tvg-logo="http://novaera4.club/logo/RTP1HD.png" group-title="★●• PORTUGAL ●•★",RTP1ᴴᴰ
+http://tvipvoftuga.novo-planeta.net:8080/ricardoclare/ricardo/57
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP2" tvg-logo="http://novaera4.club/logo/RTP2.png" group-title="★●• PORTUGAL ●•★",RTP2
+http://tvipvoftuga.novo-planeta.net:8080/ricardoclare/ricardo/54
+#EXTINF:-1 tvg-id="RTPD2" tvg-name="RTP2ᴴᴰ" tvg-logo="http://novaera4.club/logo/RTP2HD.png" group-title="★●• PORTUGAL ●•★",RTP2ᴴᴰ
+http://tvipvoftuga.novo-planeta.net:8080/ricardoclare/ricardo/55
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP3" tvg-logo="http://novaera4.club/logo/RTP3.png" group-title="★●• PORTUGAL ●•★",RTP3
+http://tvipvoftuga.novo-planeta.net:8080/ricardoclare/ricardo/53
