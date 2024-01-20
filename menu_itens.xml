@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <items_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- a title is required, other elements are optional -->
+      <genre>News</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>divingmule, Johnny Cache</credits>
+    </items_info>
+	
+    <item>
+        <title>ANIME</title>
+        <link>$doregex[resolver]</link>
+        <thumbnail>http://channel.png</thumbnail>
+        <genre>Animation</genre>
+        <info>Anime teste</info>
+        <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+        <fanart>http://fanart.jpg</fanart>
+		<regex>
+			<name>resolver</name>
+			<expres>"stream":.+?"(.*?)"</expres>
+			<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fyu-gi-oh-sevens%2Fepisodio%2F68825</page>
+		</regex>
+    </item>	
+	
+</items>
