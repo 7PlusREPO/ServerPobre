@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-
-<channel>
- <name>[B][COLOR white]INICIO[/COLOR][/B]</name> 
-<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
-<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
-<info>
-[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline
-</info>
-<externallink>http://</externallink>
-</channel>
-++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+  
 <channel>
 <name>[B][COLOR white]SERVIDOR 1[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
