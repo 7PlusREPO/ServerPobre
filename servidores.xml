@@ -45,7 +45,7 @@
 <name>[B][COLOR white]SERVIDOR 6[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 1 BR[/COLOR][COLOR lime]●[/COLOR]Online</info>
+<info>[COLOR blue]SERVIDOR 6 [/COLOR][COLOR lime]●[/COLOR]Online</info>
 <externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/LISTA-06.txt</externallink>
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -53,11 +53,26 @@
 <name>[B][COLOR white]SERVIDOR 7[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 1 BR[/COLOR][COLOR lime]●[/COLOR]Online</info>
+<info>[COLOR blue]SERVIDOR 7 [/COLOR][COLOR lime]●[/COLOR]Online</info>
 <externallink>http://tlpires.com:8080/get.php?username=ganhar5&password=36282b8j68f&type=m3u_plus</externallink>
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+ <channel>
+<name>[B][COLOR white]SERVIDOR 8[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 8 [/COLOR][COLOR lime]●[/COLOR]Online</info>
+<externallink>http://tlpires.com:8080/get.php?username=Local-Host&password=123456789&type=m3u_plus&output=m3u8</externallink>
+</channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ <channel>
+<name>[B][COLOR white]SERVIDOR 9[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 8 [/COLOR][COLOR lime]●[/COLOR]Online</info>
+<externallink>http://x123.live:8080/get.php?username=kndvw8YZmSmt&password=t6LX4cB7L3gy&type=m3u_plus</externallink>
+</channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++  
   
   
 </channels>
