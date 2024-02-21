@@ -69,7 +69,7 @@
 <name>[B][COLOR white]SERVIDOR 9[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 8 [/COLOR][COLOR lime]●[/COLOR]Online</info>
+<info>[COLOR blue]SERVIDOR 9 [/COLOR][COLOR lime]●[/COLOR]Online</info>
 <externallink>http://ncw.one/get.php?username=h8q2223vyl&password=jj224ff1zl&type=m3u_plus&output=ts</externallink> 
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -77,10 +77,17 @@
 <name>[B][COLOR white]SERVIDOR 10[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 8 [/COLOR][COLOR lime]●[/COLOR]Online</info>
+<info>[COLOR blue]SERVIDOR 10 [/COLOR][COLOR lime]●[/COLOR]Online</info>
 <externallink>http://ncw.one/get.php?username=David1&password=David1&type=m3u_plus&output=ts</externallink> 
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-  
+  <channel>
+<name>[B][COLOR white]SERVIDOR 11[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 11 [/COLOR][COLOR lime]●[/COLOR]Online</info>
+<externallink>aHR0cDovL25jdy5vbmUvZ2V0LnBocD91c2VybmFtZT1EYXZpZDEmcGFzc3dvcmQ9RGF2aWQxJnR5cGU9bTN1X3BsdXMmb3V0cHV0PXRz</externallink> 
+</channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
   
 </channels>
