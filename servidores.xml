@@ -56,21 +56,22 @@
 <info>[COLOR blue]SERVIDOR 7 plus[/COLOR][COLOR lime]●[/COLOR]Online</info>
 <externallink>http://tlpires.com:8080/get.php?username=ganhar5&password=36282b8j68f&type=m3u_plus</externallink>
 </channel>
+  https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/LISTA-08.txt
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
  <channel>
 <name>[B][COLOR white]SERVIDOR 8[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 8 m3u8[/COLOR][COLOR lime]●[/COLOR]Online</info>
-<externallink>http://tlpires.com:8080/get.php?username=Local-Host&password=123456789&type=m3u_plus&output=m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/LISTA-08.txt</externallink>
 </channel>
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++  
  <channel>
 <name>[B][COLOR white]SERVIDOR 9[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 9 m3u8[/COLOR][COLOR lime]●[/COLOR]Online</info>
-<externallink>http://ncw.one/get.php?username=h8q2223vyl&password=jj224ff1zl&type=m3u_plus&output=m3u8</externallink> 
+<externallink>http://tlpires.com:8080/get.php?username=Local-Host&password=123456789&type=m3u_plus&output=m3u8</externallink>
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
  <channel>
@@ -78,30 +79,38 @@
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 10 m3u8[/COLOR][COLOR lime]●[/COLOR]Online</info>
-<externallink>http://ncw.one/get.php?username=David1&password=David1&type=m3u_plus&output=m3u8</externallink> 
+<externallink>http://ncw.one/get.php?username=h8q2223vyl&password=jj224ff1zl&type=m3u_plus&output=m3u8</externallink> 
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-  <channel>
+ <channel>
 <name>[B][COLOR white]SERVIDOR 11[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 11 m3u8[/COLOR][COLOR lime]●[/COLOR]Online</info>
 <externallink>http://ncw.one/get.php?username=David1&password=David1&type=m3u_plus&output=m3u8</externallink> 
 </channel>
-++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
-   <channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  <channel>
 <name>[B][COLOR white]SERVIDOR 12[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 12 m3u8[/COLOR][COLOR lime]●[/COLOR]Online</info>
-<externallink>http://yw66.bloodshot.eu:8080/get.php?username=ZXgngnSdqpGy&password=NGvwzeDtWvqt&type=m3u_plus&output=m3u8</externallink> 
+<externallink>http://ncw.one/get.php?username=David1&password=David1&type=m3u_plus&output=m3u8</externallink> 
 </channel>
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
    <channel>
 <name>[B][COLOR white]SERVIDOR 13[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
 <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 12 m3u8[/COLOR][COLOR lime]●[/COLOR]Online</info>
+<info>[COLOR blue]SERVIDOR 13 m3u8[/COLOR][COLOR lime]●[/COLOR]Online</info>
+<externallink>http://yw66.bloodshot.eu:8080/get.php?username=ZXgngnSdqpGy&password=NGvwzeDtWvqt&type=m3u_plus&output=m3u8</externallink> 
+</channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   <channel>
+<name>[B][COLOR white]SERVIDOR 14[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 14 m3u8[/COLOR][COLOR lime]●[/COLOR]Online</info>
 <externallink> http://yw66.bloodshot.eu:8080/get.php?username=NunoLopes&password=367789975458&type=m3u_plus&output=m3u8</externallink> 
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
