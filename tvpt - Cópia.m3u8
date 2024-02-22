@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,RTP 1
 http://tlpires.com:8080/Local-Host/123456789/1
 #EXTINF:-1,RTP 1 HD
