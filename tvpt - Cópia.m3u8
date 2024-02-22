@@ -1,0 +1,242 @@
+#EXTINF:-1,RTP 1
+http://tlpires.com:8080/Local-Host/123456789/1
+#EXTINF:-1,RTP 1 HD
+http://tlpires.com:8080/Local-Host/123456789/1001
+#EXTINF:-1,|Low| RTP 1
+http://tlpires.com:8080/Local-Host/123456789/343
+#EXTINF:-1,RTP 2
+http://tlpires.com:8080/Local-Host/123456789/2
+#EXTINF:-1,RTP 2 HD
+http://tlpires.com:8080/Local-Host/123456789/1002
+#EXTINF:-1,|Low| RTP 2
+http://tlpires.com:8080/Local-Host/123456789/344
+#EXTINF:-1,SIC
+http://tlpires.com:8080/Local-Host/123456789/3
+#EXTINF:-1,SIC HD
+http://tlpires.com:8080/Local-Host/123456789/1003
+#EXTINF:-1,|Low| SIC
+http://tlpires.com:8080/Local-Host/123456789/347
+#EXTINF:-1,TVI
+http://tlpires.com:8080/Local-Host/123456789/4
+#EXTINF:-1,TVI HD
+http://tlpires.com:8080/Local-Host/123456789/1004
+#EXTINF:-1,|Low| TVI
+http://tlpires.com:8080/Local-Host/123456789/368
+#EXTINF:-1,SIC NOTICIAS
+http://tlpires.com:8080/Local-Host/123456789/5
+#EXTINF:-1,|Low| SIC NOTICIAS
+http://tlpires.com:8080/Local-Host/123456789/349
+#EXTINF:-1,SIC MULHER
+http://tlpires.com:8080/Local-Host/123456789/6
+#EXTINF:-1,CNN Portugal
+http://tlpires.com:8080/Local-Host/123456789/7
+#EXTINF:-1,RTP 3
+http://tlpires.com:8080/Local-Host/123456789/8
+#EXTINF:-1,SIC RADICAL
+http://tlpires.com:8080/Local-Host/123456789/9
+#EXTINF:-1,GLOBO
+http://tlpires.com:8080/Local-Host/123456789/10
+#EXTINF:-1,|Low| GLOBO
+http://tlpires.com:8080/Local-Host/123456789/332
+#EXTINF:-1,CMTV
+http://tlpires.com:8080/Local-Host/123456789/11
+#EXTINF:-1,|low| CMTV
+http://tlpires.com:8080/Local-Host/123456789/4105
+#EXTINF:-1,PORTO CANAL
+http://tlpires.com:8080/Local-Host/123456789/12
+#EXTINF:-1,SIC CARAS
+http://tlpires.com:8080/Local-Host/123456789/13
+#EXTINF:-1,CANAL Q
+http://tlpires.com:8080/Local-Host/123456789/14
+#EXTINF:-1,TVI REALITY
+http://tlpires.com:8080/Local-Host/123456789/15
+#EXTINF:-1,TVI FICCAO
+http://tlpires.com:8080/Local-Host/123456789/16
+#EXTINF:-1,A BOLA
+http://tlpires.com:8080/Local-Host/123456789/17
+#EXTINF:-1,RTP ACORES
+http://tlpires.com:8080/Local-Host/123456789/18
+#EXTINF:-1,SPORT TV 1 HQ
+http://tlpires.com:8080/Local-Host/123456789/20
+#EXTINF:-1,SPORT TV 1 HD
+http://tlpires.com:8080/Local-Host/123456789/25
+#EXTINF:-1,|Low| SPORT TV 1
+http://tlpires.com:8080/Local-Host/123456789/352
+#EXTINF:-1,|Backup| SPORT TV 1
+http://tlpires.com:8080/Local-Host/123456789/5106
+#EXTINF:-1,SPORT TV 2 HQ
+http://tlpires.com:8080/Local-Host/123456789/5108
+#EXTINF:-1,SPORT TV 2 HD
+http://tlpires.com:8080/Local-Host/123456789/26
+#EXTINF:-1,|Low| SPORT TV 2
+http://tlpires.com:8080/Local-Host/123456789/353
+#EXTINF:-1,|Backup| Sport TV 2
+http://tlpires.com:8080/Local-Host/123456789/5107
+#EXTINF:-1,SPORT TV 3 HD
+http://tlpires.com:8080/Local-Host/123456789/27
+#EXTINF:-1,SPORT TV 3 (LOW)
+http://tlpires.com:8080/Local-Host/123456789/3907
+#EXTINF:-1,|Low| SPORT TV 4
+http://tlpires.com:8080/Local-Host/123456789/355
+#EXTINF:-1,|Low| SPORT TV 5
+http://tlpires.com:8080/Local-Host/123456789/357
+#EXTINF:-1,SPORT TV 6 HD
+http://tlpires.com:8080/Local-Host/123456789/32
+#EXTINF:-1,BTV 1
+http://tlpires.com:8080/Local-Host/123456789/30
+#EXTINF:-1,|Low| BTV
+http://tlpires.com:8080/Local-Host/123456789/307
+#EXTINF:-1,SPORT TV NBA
+http://tlpires.com:8080/Local-Host/123456789/62
+#EXTINF:-1,ELEVEN 1 HD
+http://tlpires.com:8080/Local-Host/123456789/231
+#EXTINF:-1,|Low| ELEVEN 1
+http://tlpires.com:8080/Local-Host/123456789/318
+#EXTINF:-1,ELEVEN 2 HD
+http://tlpires.com:8080/Local-Host/123456789/232
+#EXTINF:-1,|Low| ELEVEN 2
+http://tlpires.com:8080/Local-Host/123456789/320
+#EXTINF:-1,ELEVEN 3
+http://tlpires.com:8080/Local-Host/123456789/233
+#EXTINF:-1,|Low| Eleven 3
+http://tlpires.com:8080/Local-Host/123456789/4170
+#EXTINF:-1,ELEVEN 4
+http://tlpires.com:8080/Local-Host/123456789/234
+#EXTINF:-1,ELEVEN 5
+http://tlpires.com:8080/Local-Host/123456789/235
+#EXTINF:-1,ELEVEN 6
+http://tlpires.com:8080/Local-Host/123456789/236
+#EXTINF:-1,SPORT TV+
+http://tlpires.com:8080/Local-Host/123456789/33
+#EXTINF:-1,SPORTING TV
+http://tlpires.com:8080/Local-Host/123456789/34
+#EXTINF:-1,CANAL 11 HD
+http://tlpires.com:8080/Local-Host/123456789/37
+#EXTINF:-1,DISNEY CHANNEL
+http://tlpires.com:8080/Local-Host/123456789/40
+#EXTINF:-1,PANDA
+http://tlpires.com:8080/Local-Host/123456789/42
+#EXTINF:-1,BIGGS
+http://tlpires.com:8080/Local-Host/123456789/43
+#EXTINF:-1,DISNEY JUNIOR
+http://tlpires.com:8080/Local-Host/123456789/44
+#EXTINF:-1,SIC K
+http://tlpires.com:8080/Local-Host/123456789/45
+#EXTINF:-1,BABY TV
+http://tlpires.com:8080/Local-Host/123456789/46
+#EXTINF:-1,CARTOON NETWORK
+http://tlpires.com:8080/Local-Host/123456789/47
+#EXTINF:-1,Lolly Kids
+http://tlpires.com:8080/Local-Host/123456789/39
+#EXTINF:-1,Panda Kids
+http://tlpires.com:8080/Local-Host/123456789/50
+#EXTINF:-1,NICK JR
+http://tlpires.com:8080/Local-Host/123456789/49
+#EXTINF:-1,TVCINE TOP HD
+http://tlpires.com:8080/Local-Host/123456789/75
+#EXTINF:-1,|Low| TVCINE TOP
+http://tlpires.com:8080/Local-Host/123456789/365
+#EXTINF:-1,TVCINE EDITION HD
+http://tlpires.com:8080/Local-Host/123456789/76
+#EXTINF:-1,|Low| TVCINE EDITION
+http://tlpires.com:8080/Local-Host/123456789/363
+#EXTINF:-1,TVCINE EMOTION HD
+http://tlpires.com:8080/Local-Host/123456789/77
+#EXTINF:-1,|Low| TVCINE EMOTION
+http://tlpires.com:8080/Local-Host/123456789/364
+#EXTINF:-1,TVCINE ACTION HD
+http://tlpires.com:8080/Local-Host/123456789/78
+#EXTINF:-1,|Low| TVCINE ACTION
+http://tlpires.com:8080/Local-Host/123456789/362
+#EXTINF:-1,AMC HD
+http://tlpires.com:8080/Local-Host/123456789/54
+#EXTINF:-1,|Low| AMC
+http://tlpires.com:8080/Local-Host/123456789/302
+#EXTINF:-1,HOLLYWOOD
+http://tlpires.com:8080/Local-Host/123456789/57
+#EXTINF:-1,|Low| HOLLYWOOD
+http://tlpires.com:8080/Local-Host/123456789/334
+#EXTINF:-1,CINEMUNDO
+http://tlpires.com:8080/Local-Host/123456789/59
+#EXTINF:-1,FOX COMEDY
+http://tlpires.com:8080/Local-Host/123456789/67
+#EXTINF:-1,FOX MOVIES
+http://tlpires.com:8080/Local-Host/123456789/68
+#EXTINF:-1,|Low| FOX MOVIES
+http://tlpires.com:8080/Local-Host/123456789/331
+#EXTINF:-1,AXN HD
+http://tlpires.com:8080/Local-Host/123456789/87
+#EXTINF:-1,AXN MOVIES HD
+http://tlpires.com:8080/Local-Host/123456789/83
+#EXTINF:-1,AMC Break
+http://tlpires.com:8080/Local-Host/123456789/4962
+#EXTINF:-1,NOS STUDIOS
+http://tlpires.com:8080/Local-Host/123456789/79
+#EXTINF:-1,AMC CRIME
+http://tlpires.com:8080/Local-Host/123456789/98
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+http://tlpires.com:8080/Local-Host/123456789/250
+#EXTINF:-1,MTV PORTUGAL
+http://tlpires.com:8080/Local-Host/123456789/72
+#EXTINF:-1,MTV 00s
+http://tlpires.com:8080/Local-Host/123456789/157
+#EXTINF:-1,AFRO MUSIC
+http://tlpires.com:8080/Local-Host/123456789/161
+#EXTINF:-1,MCM POP
+http://tlpires.com:8080/Local-Host/123456789/159
+#EXTINF:-1,MCM TOP
+http://tlpires.com:8080/Local-Host/123456789/4963
+#EXTINF:-1,MEZZO
+http://tlpires.com:8080/Local-Host/123456789/220
+#EXTINF:-1,TLC
+http://tlpires.com:8080/Local-Host/123456789/71
+#EXTINF:-1,DISCOVERY CHANNEL
+http://tlpires.com:8080/Local-Host/123456789/100
+#EXTINF:-1,SYFY
+http://tlpires.com:8080/Local-Host/123456789/108
+#EXTINF:-1,NAT GEO WILD
+http://tlpires.com:8080/Local-Host/123456789/107
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://tlpires.com:8080/Local-Host/123456789/117
+#EXTINF:-1,ODISSEIA
+http://tlpires.com:8080/Local-Host/123456789/109
+#EXTINF:-1,CANAL HISTORIA
+http://tlpires.com:8080/Local-Host/123456789/112
+#EXTINF:-1,RTP AFRICA
+http://tlpires.com:8080/Local-Host/123456789/118
+#EXTINF:-1,RTP MEMORIA
+http://tlpires.com:8080/Local-Host/123456789/119
+#EXTINF:-1,EUROSPORT 1
+http://tlpires.com:8080/Local-Host/123456789/130
+#EXTINF:-1,FUEL TV
+http://tlpires.com:8080/Local-Host/123456789/136
+#EXTINF:-1,MUNDO TOROS
+http://tlpires.com:8080/Local-Host/123456789/7197
+#EXTINF:-1,CACAVISION
+http://tlpires.com:8080/Local-Host/123456789/143
+#EXTINF:-1,Record TV
+http://tlpires.com:8080/Local-Host/123456789/171
+#EXTINF:-1,RECORD NEWS
+http://tlpires.com:8080/Local-Host/123456789/176
+#EXTINF:-1,CANCAO NOVA
+http://tlpires.com:8080/Local-Host/123456789/186
+#EXTINF:-1,BBC ENTERTAINMENT
+http://tlpires.com:8080/Local-Host/123456789/196
+#EXTINF:-1,FRANCE 24
+http://tlpires.com:8080/Local-Host/123456789/205
+#EXTINF:-1,TVE INTERNACIONAL
+http://tlpires.com:8080/Local-Host/123456789/207
+#EXTINF:-1,TV GALICIA
+http://tlpires.com:8080/Local-Host/123456789/217
+#EXTINF:-1,BLOOMBERG
+http://tlpires.com:8080/Local-Host/123456789/210
+#EXTINF:-1,TPA
+http://tlpires.com:8080/Local-Host/123456789/116
+#EXTINF:-1,ARTV
+http://tlpires.com:8080/Local-Host/123456789/199
+#EXTINF:-1,|+18| HOT
+http://tlpires.com:8080/Local-Host/123456789/259
+#EXTINF:-1,|+18| PLAYBOY
+http://tlpires.com:8080/Local-Host/123456789/260
+#EXTINF:-1,|+18| VENUS
+http://tlpires.com:8080/Local-Host/123456789/261
