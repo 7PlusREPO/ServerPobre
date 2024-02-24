@@ -1,0 +1,767 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/2.m3u8
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/3.m3u8
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_2_HD.png" group-title="PORTUGAL HD",RTP 2ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/4.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SICᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_HD.png" group-title="PORTUGAL HD",SICᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/5.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SICᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/SIC_HD.png" group-title="PORTUGAL HD",SICᶠᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/6.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVIᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_HD.png" group-title="PORTUGAL HD",TVIᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/7.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVIᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/TVI_HD.png" group-title="PORTUGAL HD",TVIᶠᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/8.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CMTV_HD.png" group-title="PORTUGAL HD",CMTVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/278.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTVᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/CMTV_HD.png" group-title="PORTUGAL HD",CMTVᶠᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/10.m3u8
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGALᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL_HD.png" group-title="PORTUGAL HD",CNN PORTUGALᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/13.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_3..png" group-title="PORTUGAL HD",RTP 3ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/14.m3u8
+#EXTINF:-1 tvg-id="SICNOTICIASHD" tvg-name="SIC NOTICIASᴴᴰ" tvg-logo="https://directlogos.dotsi.pt/EuropaHD/SIC%20NOTICIAS%20HD.png" group-title="PORTUGAL HD",SIC NOTICIASᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/12.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV + ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV+HD.png" group-title="PORTUGAL HD",SPORT TV + ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16.m3u8
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA TVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV_HD.png" group-title="PORTUGAL HD",A BOLA TVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/15.m3u8
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CANAL_11.png" group-title="PORTUGAL HD",CANAL 11ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/17.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE +ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJUGOvZgIE1AAh5FEezdR1XlhMe4eCQK5rGXT4oik&s" group-title="PORTUGAL HD",TVCINE +ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36261.m3u8
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL HD",TVCINE TOPᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/19.m3u8
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL HD",TVCINE EDITIONᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21.m3u8
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Emotion%20HD.png" group-title="PORTUGAL HD",TVCINE EMOTIONᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/23.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE ACTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action%20HD.png" group-title="PORTUGAL HD",TVCINE ACTIONᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/25.m3u8
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL HD",NOS STUDIOSᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/27.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL HD",HOLLYWOODᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/30.m3u8
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL HD",AXN MOVIESᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/37.m3u8
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL HD",STAR MOVIESᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/29.m3u8
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL HD",CINEMUNDOᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/28.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL HD",AMCᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/31.m3u8
+#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK_HD.png" group-title="PORTUGAL HD",AMC BREAKᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/41472.m3u8
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIMEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_CRIME.png" group-title="PORTUGAL HD",AMC CRIMEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/41471.m3u8
+#EXTINF:-1 tvg-id="DIZI" tvg-name="DIZI CHANNEL " tvg-logo="https://picons.my-ott.com/picons/DIZI.png" group-title="PORTUGAL HD",DIZI CHANNEL 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38020.m3u8
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL HD",SYFYᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/43.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_HD.png" group-title="PORTUGAL HD",AXNᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36.m3u8
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL HD",AXN WHITEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38.m3u8
+#EXTINF:-1 tvg-id="FOX Full HD" tvg-name="STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL HD",STARᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/39.m3u8
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL HD",STAR CRIMEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/40.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL HD",STAR COMEDYᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/41.m3u8
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL HD",STAR LIFEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/42.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL HD",SPORT TV 1ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/62440.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/62439.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᴴᴰ2k" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᴴᴰ2k
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/62442.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/62441.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1280" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1280
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/43353.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 ᴴᴰ1BIT" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL HD",SPORT TV 1 ᴴᴰ1BIT
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/62438.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 UHD" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_1_HD.png" group-title="PORTUGAL HD",SPORT TV 1 UHD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21640.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2 ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/54.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV2HD.png" group-title="PORTUGAL HD",SPORT TV 2ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/56.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3 ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/57.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL HD",SPORT TV 3ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/59.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4 ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/60.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL HD",SPORT TV 4ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/62.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5 ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/63.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL HD",SPORT TV 5ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/65.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/37967.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV6HD.png" group-title="PORTUGAL HD",SPORT TV 6ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/40698.m3u8
+#EXTINF:-1 tvg-id="SportTVNBA" tvg-name="Sport TV NBAᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/NBAHD.png" group-title="PORTUGAL HD",Sport TV NBAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/66.m3u8
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV.png" group-title="PORTUGAL HD",BTVˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/67.m3u8
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/68.m3u8
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTVᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTVᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/70.m3u8
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV  EXPERIENCEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL HD",BTV  EXPERIENCEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/63252.m3u8
+#EXTINF:-1 tvg-id="WSPORT FHD" tvg-name="W-Sport ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/WSPORT.png" group-title="PORTUGAL HD",W-Sport ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/47404.m3u8
+#EXTINF:-1 tvg-id="WSPORT FHD" tvg-name="W-Sport ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/WSPORT.png" group-title="PORTUGAL HD",W-Sport ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/47403.m3u8
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/18230.m3u8
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/73.m3u8
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 1ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16052.m3u8
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/75.m3u8
+#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 2ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/76.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/77.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 HD" tvg-name="ELEVEN SPORTS 3ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_3_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 3ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38244.m3u8
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/78.m3u8
+#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="ELEVEN SPORTS 4ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_4_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 4ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38245.m3u8
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/79.m3u8
+#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="ELEVEN SPORTS 5ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_5_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 5ᶠᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38246.m3u8
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/80.m3u8
+#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="ELEVEN SPORTS 6ᶠᴴᴰ " tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_6_HD.png" group-title="PORTUGAL HD",ELEVEN SPORTS 6ᶠᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38247.m3u8
+#EXTINF:-1 tvg-id="[Low] Baby TV" tvg-name="BABY TVˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/BABY%20TV.png" group-title="PORTUGAL HD",BABY TVˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/82.m3u8
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Juniorˢᵈ" tvg-logo="https://picons.my-ott.com/picons/nickjr.png" group-title="PORTUGAL HD",Nick Juniorˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/83.m3u8
+#EXTINF:-1 tvg-id="Nicke" tvg-name="NICKELODEONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Nickelodeon.png" group-title="PORTUGAL HD",NICKELODEONˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/85.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="NICK+ ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/nickpng-9.png" group-title="PORTUGAL HD",NICK+ ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45613.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="Sic Kidsᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_K.png" group-title="PORTUGAL HD",Sic Kidsᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/91.m3u8
+#EXTINF:-1 tvg-id="Panda KIDS HD" tvg-name="Panda Kids HD" tvg-logo="https://picons.my-ott.com/picons/panda_kidsHD.png" group-title="PORTUGAL HD",Panda Kids HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/63489.m3u8
+#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="PANDA BIGGSˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/PANDA%20BIGGS.png" group-title="PORTUGAL HD",PANDA BIGGSˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/92.m3u8
+#EXTINF:-1 tvg-id="PANDA" tvg-name="CANAL PANDAᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20Panda.png" group-title="PORTUGAL HD",CANAL PANDAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38250.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON  NETWORK HD" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/CARTOON%20NETWORK.png" group-title="PORTUGAL HD",CARTOON  NETWORK HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/63488.m3u8
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="CARTOONITO HD" tvg-logo="https://picons.my-ott.com/picons/CARTOONITO.png" group-title="PORTUGAL HD",CARTOONITO HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/63487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY +ᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img924/9562/4Qq79e.png" group-title="PORTUGAL HD",DISNEY +ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXARᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img924/5025/wEN6Ej.png" group-title="PORTUGAL HD",DISNEY PIXARᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVELᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img923/74/FA3qlQ.png" group-title="PORTUGAL HD",DISNEY MARVELᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY STAR WARSᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img922/9357/ShYiup.png" group-title="PORTUGAL HD",DISNEY STAR WARSᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21880.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR HD" tvg-name="DISNEY JUNIORᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_JUNIOR.png" group-title="PORTUGAL HD",DISNEY JUNIORᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38248.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL HD" tvg-name="DISNEY CHANELᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_CHANNEL.png" group-title="PORTUGAL HD",DISNEY CHANELᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA PATA ᴴᴰ" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/5f/PAW_Patrol_Logo.png/revision/latest?cb=20160312130228&path-prefix=de" group-title="PORTUGAL HD",PATRULHA PATA ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SANTIAGO DOS MARES ᴴᴰ " tvg-logo="https://pixel.disco.skyshowtime.com/uuid/d7d82502-4c67-3f15-8db8-5bb4a60144f3/LOGO_TITLE_WIDE?language=pt-PT&proposition=SKYSHOWTIME&version=0d6206be-fdcb-34ec-9713-57e9a8ecfcb2" group-title="PORTUGAL HD",SANTIAGO DOS MARES ᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIREMAN SAM ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/Fireman_Sam_logo.png" group-title="PORTUGAL HD",FIREMAN SAM ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45779.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIAᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ODISSEIA_HD.png" group-title="PORTUGAL HD",ODISSEIAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/140.m3u8
+#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIAᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HISTORIA_HD.png" group-title="PORTUGAL HD",HISTORIAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/141.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID Investigation Discoveryᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ID_HD.png" group-title="PORTUGAL HD",ID Investigation Discoveryᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/139.m3u8
+#EXTINF:-1 tvg-id="NGC" tvg-name="National geographicᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="PORTUGAL HD",National geographicᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/136.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="National Geographic wildᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NAT%20GEO%20WILD%20HD.png" group-title="PORTUGAL HD",National Geographic wildᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/137.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNELᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Discovery%20Channel%20HD.png" group-title="PORTUGAL HD",DISCOVERY CHANNELᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/138.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/DISCOVERY_TURBO.png" group-title="PORTUGAL HD",DISCOVERY TURBOᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36737.m3u8
+#EXTINF:-1 tvg-id="Caça Vision" tvg-name="Cacavisionˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CACAVISION.png" group-title="PORTUGAL HD",Cacavisionˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/146.m3u8
+#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça & Pescaᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CACA_E_PESCA.png" group-title="PORTUGAL HD",Caça & Pescaᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO HD" tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="PORTUGAL HD",ONETORO HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/53644.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Realityᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_REALITY_HD.png" group-title="PORTUGAL HD",TVI Realityᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/116.m3u8
+#EXTINF:-1 tvg-id="TVI Reality - Mosaico" tvg-name="TVI REALITY MOSAICO " tvg-logo="https://picons.my-ott.com/picons/TVI_REALITY_MOSAICO.png" group-title="PORTUGAL HD",TVI REALITY MOSAICO 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22917.m3u8
+#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name="TVI FICCAOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_FICCAO_HD.png" group-title="PORTUGAL HD",TVI FICCAOᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/115.m3u8
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="TV GLOBOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/GLOBO_HD.png" group-title="PORTUGAL HD",TV GLOBOᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/117.m3u8
+#EXTINF:-1 tvg-id="TVRECORDHD2" tvg-name="TV RECORDᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record%20HD.png" group-title="PORTUGAL HD",TV RECORDᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/119.m3u8
+#EXTINF:-1 tvg-id="SAUDEMAISHD" tvg-name="SAUDE +ᴴᴰ" tvg-logo="https://www.omd.pt/content/uploads/sites/4/2019/11/LOGOTIPO_S_rgb-360x360.png" group-title="PORTUGAL HD",SAUDE +ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22638.m3u8
+#EXTINF:-1 tvg-id="SICCARASHD" tvg-name="SIC Carasᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SiC%20CARAS%20HD.png" group-title="PORTUGAL HD",SIC Carasᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/120.m3u8
+#EXTINF:-1 tvg-id="SIC MULHER HD" tvg-name="SIC MULHERᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER%20HD.png" group-title="PORTUGAL HD",SIC MULHERᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/121.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC RADICALᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20RADICAL%20HD.png" group-title="PORTUGAL HD",SIC RADICALᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOVELAS" tvg-logo="https://picons.my-ott.com/picons/SICNovelas2.png" group-title="PORTUGAL HD",SIC NOVELAS
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/48642.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 KITCHENᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/24_KITCHEN_HD.png" group-title="PORTUGAL HD",24 KITCHENᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/125.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="KURIAKOS TVᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Kuriakos%20TV%20HD.png" group-title="PORTUGAL HD",KURIAKOS TVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/152.m3u8
+#EXTINF:-1 tvg-id="Lolly kids HD" tvg-name="Lolly Kidsᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/Lolly_Kids.png" group-title="PORTUGAL HD",Lolly Kidsᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/30916.m3u8
+#EXTINF:-1 tvg-id="STINGRAY INCONCERTS HD" tvg-name="STINGRAY INCONCERTSᴴᴰ" tvg-logo="https://picon.pp.ua/iconcerts.png" group-title="PORTUGAL HD",STINGRAY INCONCERTSᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36267.m3u8
+#EXTINF:-1 tvg-id="TV GALICIA HD" tvg-name="TV Galicia ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/Galicia.png" group-title="PORTUGAL HD",TV Galicia ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/43840.m3u8
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoriaˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20MEMORIA.png" group-title="PORTUGAL HD",RTP Memoriaˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/134.m3u8
+#EXTINF:-1 tvg-id="CANAL 180" tvg-name="CANAL 180ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/180hd.png" group-title="PORTUGAL HD",CANAL 180ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36564.m3u8
+#EXTINF:-1 tvg-id="LOCALVISÃO HD" tvg-name="Local visãoᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Localvisao%20HD.png" group-title="PORTUGAL HD",Local visãoᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22943.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLCᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/2560px-TLC-HD-Logo_2016.svg.png" group-title="PORTUGAL HD",TLCᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HGTV.png" group-title="PORTUGAL HD",HGTVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/42585.m3u8
+#EXTINF:-1 tvg-id="CASA E COZINHA HD" tvg-name="CASA COZINHAᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PORTUGAL HD",CASA COZINHAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/18592.m3u8
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="FOOD NETWORKᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Food%20Network%20HD.png" group-title="PORTUGAL HD",FOOD NETWORKᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/126.m3u8
+#EXTINF:-1 tvg-id="MÁS CHIC HD" tvg-name="MÁS CHICᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/2560px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="PORTUGAL HD",MÁS CHICᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36563.m3u8
+#EXTINF:-1 tvg-id="EENTER" tvg-name="E! ENTERTAINMENTᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/E!%20ENTERTAINMENT%20HD.png" group-title="PORTUGAL HD",E! ENTERTAINMENTᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/127.m3u8
+#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="FUEL TVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/FUEL_TV_HD.png" group-title="PORTUGAL HD",FUEL TVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/99.m3u8
+#EXTINF:-1 tvg-id="CanalQB" tvg-name="CANAL Qˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/CANAL%20Q.png" group-title="PORTUGAL HD",CANAL Qˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/129.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFCˢᵈ" tvg-logo="https://picons.my-ott.com/picons/PFC.png" group-title="PORTUGAL HD",PFCˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/101.m3u8
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TVᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/SPORTING_TV_HD.png" group-title="PORTUGAL HD",SPORTING TVᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/71.m3u8
+#EXTINF:-1 tvg-id="PORTOCANALHD" tvg-name="PORTO CANALᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/PORTO_CANAL_HD.png" group-title="PORTUGAL HD",PORTO CANALᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/128.m3u8
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1ᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/EUROSPORT_1_HD.png" group-title="PORTUGAL HD",EUROSPORT 1ᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/96.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2ᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/EUROSPORT_2_HD.png" group-title="PORTUGAL HD",EUROSPORT 2ᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/97.m3u8
+#EXTINF:-1 tvg-id="TOROS TV FHD" tvg-name="CAMPO PEQUENO TVᴴᴰ" tvg-logo="https://www.campopequeno.com/img/campopequenotv_logo.png?ass" group-title="PORTUGAL HD",CAMPO PEQUENO TVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WRC-RALLY TV ᴴᴰ" tvg-logo="https://images.saasworthy.com/rallyvideo_8940_logo_1595417470_jlcdg.png" group-title="PORTUGAL HD",WRC-RALLY TV ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/56452.m3u8
+#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="MOTORVISION TVᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/MOTORVISION%20HD.png" group-title="PORTUGAL HD",MOTORVISION TVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/104.m3u8
+#EXTINF:-1 tvg-id="FIGHT NETWORK HD" tvg-name="WWEᴴᴰ" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-symbol-png-10.png" group-title="PORTUGAL HD",WWEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/756.m3u8
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Networkᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/fightnetwork.png" group-title="PORTUGAL HD",Fight Networkᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/20921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGTH PASSᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946" group-title="PORTUGAL HD",UFC FIGTH PASSᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Networkᴴᴰ" tvg-logo="https://img2.gratispng.com/20180405/kee/kisspng-nfl-preseason-nfl-network-television-logo-bet-5ac5a980898739.0749219315229034245633.jpg" group-title="PORTUGAL HD",NFL Networkᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22900.m3u8
+#EXTINF:-1 tvg-id="GINX HD" tvg-name="Ginxᴴᴰ " tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Ginx_Esports_logo.png" group-title="PORTUGAL HD",Ginxᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/112.m3u8
+#EXTINF:-1 tvg-id="Gametoon HD" tvg-name="Gametoonᴴᴰ " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Gametoon_HD.svg/revision/latest?cb=20171210220825" group-title="PORTUGAL HD",Gametoonᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/24520.m3u8
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP ARENAᴴᴰ" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/rtpArena_vertical_positivo.png" group-title="PORTUGAL HD",RTP ARENAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36858.m3u8
+#EXTINF:-1 tvg-id="ZAPVIVAHD" tvg-name="Zap Vivaˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="PORTUGAL HD",Zap Vivaˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVAᴴᴰ" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6be9b133-ed05-44be-b633-de7511d2a72e/ddqzwme-335892be-4def-46fe-967a-9fef940f8c5c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiZTliMTMzLWVkMDUtNDRiZS1iNjMzLWRlNzUxMWQyYTcyZVwvZGRxendtZS0zMzU4OTJiZS00ZGVmLTQ2ZmUtOTY3YS05ZmVmOTQwZjhjNWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9x64PqObMhy4FznZKr61Q5QbIKnJZeR5ohLpnU5Mzvk" group-title="PORTUGAL HD",TVAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/42584.m3u8
+#EXTINF:-1 tvg-id="TPA" tvg-name="TPA INTERNACIONALˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TPA%20INTERNACIONAL.png" group-title="PORTUGAL HD",TPA INTERNACIONALˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/15845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCV CABO VERDE" tvg-logo="https://rtc.cv/upload/img/programas/logotipo_tcv.png" group-title="PORTUGAL HD",TCV CABO VERDE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/47499.m3u8
+#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="ALMA LUSA  HD" tvg-logo="data:image/png;base64,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" group-title="PORTUGAL HD",ALMA LUSA  HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/24447.m3u8
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="AFRO MUSICˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AFRO%20MUSIC.png" group-title="PORTUGAL HD",AFRO MUSICˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOMSOMᴴᴰ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/BOMSOM_TV.png" group-title="PORTUGAL HD",BOMSOMᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/42583.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV" tvg-name="CLUBBING TVˢᵈ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="PORTUGAL HD",CLUBBING TVˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/24448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNiFÉ HD" tvg-logo="https://picons.my-ott.com/picons/UNIFE.png" group-title="PORTUGAL HD",UNiFÉ HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45544.m3u8
+#EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="Canção Novaᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CANCAO_NOVA.png" group-title="PORTUGAL HD",Canção Novaᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/153.m3u8
+#EXTINF:-1 tvg-id="TRACE TOCA" tvg-name="TRACE TOCAˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Trace_Toca.png/1200px-Trace_Toca.png" group-title="PORTUGAL HD",TRACE TOCAˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/32208.m3u8
+#EXTINF:-1 tvg-id="TRACEURBAN.HD" tvg-name="TRACE URBANᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TRACE_URBAN_HD.png" group-title="PORTUGAL HD",TRACE URBANᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICAᴴᴰ" tvg-logo="https://www.nicepng.com/png/full/28-287899_trace-africa-2013-trace-africa-logo-png.png" group-title="PORTUGAL HD",TRACE AFRICAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE LATINAᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1024px-TRACE_Latina_Logo.png" group-title="PORTUGAL HD",TRACE LATINAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOXᴴᴰ" tvg-logo="https://logowik.com/content/uploads/images/musicbox2123.logowik.com.webp" group-title="PORTUGAL HD",MUSIC BOXᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36277.m3u8
+#EXTINF:-1 tvg-id="MCM TOP" tvg-name="MCM TOPˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/MCM%20TOP.png" group-title="PORTUGAL HD",MCM TOPˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36590.m3u8
+#EXTINF:-1 tvg-id="MCMPOP" tvg-name="MCM Popˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/MCM%20POP.png" group-title="PORTUGAL HD",MCM Popˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/180.m3u8
+#EXTINF:-1 tvg-id="MEZZO LIVE HD" tvg-name="Mezzo Liveᴴᴰ" tvg-logo="https://imagizer.imageshack.com/img922/2641/23bKUj.png" group-title="PORTUGAL HD",Mezzo Liveᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/177.m3u8
+#EXTINF:-1 tvg-id="MTVDance" tvg-name="MTV LIVEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/Mtv_live_2021_wide.png" group-title="PORTUGAL HD",MTV LIVEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/758.m3u8
+#EXTINF:-1 tvg-id="MTV PORTUGAL HD" tvg-name="MTV PORTUGALᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/MTV_PORTUGAL_HD.png" group-title="PORTUGAL HD",MTV PORTUGALᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/174.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="MTV 00sˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="PORTUGAL HD",MTV 00sˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/172.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE FHD" tvg-name="MTV 90sˢᵈ" tvg-logo="https://imagizer.imageshack.com/img922/8593/zlSySw.png" group-title="PORTUGAL HD",MTV 90sˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36699.m3u8
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV HITSˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png" group-title="PORTUGAL HD",MTV HITSˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/36698.m3u8
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="TRAVEL CHANNELᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TRAVEL%20CHANNEL%20HD.png" group-title="PORTUGAL HD",TRAVEL CHANNELᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/30920.m3u8
+#EXTINF:-1 tvg-id="TRAVELXP HD" tvg-name="TRAVELXP HD" tvg-logo="https://picons.my-ott.com/picons/TRAVELXP_HD.png" group-title="PORTUGAL HD",TRAVELXP HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/43744.m3u8
+#EXTINF:-1 tvg-id="DOG TV" tvg-name="DOG TV HD" tvg-logo="https://directlogos.dotsi.pt/EuropaHD/DOG%20TV%20HD.png" group-title="PORTUGAL HD",DOG TV HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/47298.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%201.png" group-title="PORTUGAL SMART-HVEC",RTP 1ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/274.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%201.png" group-title="PORTUGAL SMART-HVEC",RTP 1 Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16496.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="[hevc] RTP 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] RTP 1ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21690.m3u8
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%202.png" group-title="PORTUGAL SMART-HVEC",RTP 2ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/275.m3u8
+#EXTINF:-1 tvg-id="RTP 2 HD" tvg-name="RTP 2 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%202.png" group-title="PORTUGAL SMART-HVEC",RTP 2 Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21592.m3u8
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="[hevc] RTP 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_2_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] RTP 2ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21688.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SICˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC.png" group-title="PORTUGAL SMART-HVEC",SICˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/276.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC.png" group-title="PORTUGAL SMART-HVEC",SIC Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16497.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="[hevc] SICᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SICᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21689.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVIˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI.png" group-title="PORTUGAL SMART-HVEC",TVIˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/277.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI.png" group-title="PORTUGAL SMART-HVEC",TVI Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16498.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="[hevc] TVIᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVIᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦ Smart INFORMACÃO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦ Smart INFORMACÃO✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21636.m3u8
+#EXTINF:-1 tvg-id="EURON" tvg-name="EURONEWS" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Euronews.png" group-title="PORTUGAL SMART-HVEC",EURONEWS
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/20307.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL SMART-HVEC",CMTV Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16499.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="[hevc] CMTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CMTV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CMTVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21646.m3u8
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGALˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL.png" group-title="PORTUGAL SMART-HVEC",CNN PORTUGALˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/280.m3u8
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGAL Mobile" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL.png" group-title="PORTUGAL SMART-HVEC",CNN PORTUGAL Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16500.m3u8
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="[hevc] CNN PORTUGALᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CNN PORTUGALᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21687.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2560px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL SMART-HVEC",RTP 3ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22843.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2560px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL SMART-HVEC",RTP 3 Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16508.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC NOTICIASˢᵈ" tvg-logo="https://picons.my-ott.com/picons/SIC_NOTICIAS.png" group-title="PORTUGAL SMART-HVEC",SIC NOTICIASˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/279.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias Mobile" tvg-logo="https://picons.my-ott.com/picons/SIC_NOTICIAS.png" group-title="PORTUGAL SMART-HVEC",SIC Noticias Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16503.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-name="[hevc] SIC NOTICIASᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_NOTICIAS_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC NOTICIASᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21648.m3u8
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CANAL_11_SD.png" group-title="PORTUGAL SMART-HVEC",CANAL 11ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22696.m3u8
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11 Mobile" tvg-logo="https://picons.my-ott.com/picons/CANAL_11_SD.png" group-title="PORTUGAL SMART-HVEC",CANAL 11 Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21624.m3u8
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="[hevc] CANAL 11ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CANAL_11.png" group-title="PORTUGAL SMART-HVEC",[hevc] CANAL 11ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22695.m3u8
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV.png" group-title="PORTUGAL SMART-HVEC",A Bola TVˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21618.m3u8
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TV Mobile" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV.png" group-title="PORTUGAL SMART-HVEC",A Bola TV Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16510.m3u8
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="[hevc] A BOLA  TVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] A BOLA  TVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21649.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV +ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV+.png" group-title="PORTUGAL SMART-HVEC",SPORT TV +ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/343.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV + Mobile" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_+.png" group-title="PORTUGAL SMART-HVEC",SPORT TV + Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/18228.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="[hevc] SPORT TV +ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/NBAHD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV +ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21651.m3u8
+#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANALˢᵈ " tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC",PORTO CANALˢᵈ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/282.m3u8
+#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANAL Mobile" tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC",PORTO CANAL Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21606.m3u8
+#EXTINF:-1 tvg-id="PORTO" tvg-name=" [hevc] PORTO CANALᴴᴰ " tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC", [hevc] PORTO CANALᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22654.m3u8
+#EXTINF:-1 tvg-id="ARTV (Canal Parlamento)" tvg-name="AR TV " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TV%20PARLAMENTO.png" group-title="PORTUGAL SMART-HVEC",AR TV 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/20676.m3u8
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP AFRICAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20Africa.png" group-title="PORTUGAL SMART-HVEC",RTP AFRICAˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/294.m3u8
+#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP MADEIRAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20MADEIRA.png" group-title="PORTUGAL SMART-HVEC",RTP MADEIRAˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/133.m3u8
+#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Açoresˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20ACORES.png" group-title="PORTUGAL SMART-HVEC",RTP Açoresˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦Smart DESPORTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DESPORTO✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21633.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 1 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16511.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="[hevc] SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 1ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/62437.m3u8
+#EXTINF:-1 tvg-id="SPTV2" tvg-name="SPORT TV 2 MOBILE" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_2.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 2 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16512.m3u8
+#EXTINF:-1 tvg-id="SPTV2" tvg-name="[hevc] SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV2.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 2 ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21654.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV3.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 3 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16513.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="[hevc] Sport Tv 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] Sport Tv 3 ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21691.m3u8
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV4.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 4 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21608.m3u8
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="[hevc] SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 4 ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21656.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV5.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 5 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21609.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="[hevc] SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 5 ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21657.m3u8
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV6.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 6 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/37971.m3u8
+#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="Sport TV NBAˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/NBA.png" group-title="PORTUGAL SMART-HVEC",Sport TV NBAˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21697.m3u8
+#EXTINF:-1 tvg-id="SPORT TV NBA HD" tvg-name=" [hevc] SPORT TV NBAᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/NBAHD.png" group-title="PORTUGAL SMART-HVEC", [hevc] SPORT TV NBAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22635.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",BTVˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/384.m3u8
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV Mobile" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",BTV Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16516.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="[hevc] BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] BTVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21658.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="SPORTING TVˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/SPORTING%20TV.png" group-title="PORTUGAL SMART-HVEC",SPORTING TVˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/328.m3u8
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/SPORTING%20TV.png" group-title="PORTUGAL SMART-HVEC",SPORTING TV Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21613.m3u8
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="[hevc] SPORTING TVᴴᴰ " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SPORTING%20TV%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORTING TVᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22714.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 1ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38238.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 1 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16534.m3u8
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="[hevc] ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ELEVEN SPORTS 1ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21659.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN2_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 2ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38239.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN2_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 2 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16535.m3u8
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="[hevc] ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ELEVEN SPORTS 2ᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21661.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN3_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 3ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38240.m3u8
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN3_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 3 MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21597.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN4_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 4ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38241.m3u8
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4  MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN4_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 4  MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21602.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="ELEVEN SPORTS 5ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN5_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 5ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38242.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="ELEVEN SPORTS 6ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN6_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 6ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/38243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦Smart DIVERSIDADE DESPORTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DIVERSIDADE DESPORTO✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21632.m3u8
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%201.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 1ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/329.m3u8
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%201.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 1 Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[hevc] EUROSPORT 1ᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/EUROSPORT_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] EUROSPORT 1ᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22710.m3u8
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="EUROSPORT 2ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%202.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 2ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/330.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%202.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 2 Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21596.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FUELˢᵈ" tvg-logo="http://ghost-x99.uno:8080/images/644228de21be373bc844b785f6bb9574.png" group-title="PORTUGAL SMART-HVEC",FUELˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦Smart FILMES✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart FILMES✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21635.m3u8
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top.png" group-title="PORTUGAL SMART-HVEC",TVCINE TOPˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/347.m3u8
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCine TOP Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top.png" group-title="PORTUGAL SMART-HVEC",TVCine TOP Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16517.m3u8
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="[hevc] TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE TOPᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21663.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE ACTIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action.png" group-title="PORTUGAL SMART-HVEC",TVCINE ACTIONˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/346.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCine Action Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action.png" group-title="PORTUGAL SMART-HVEC",TVCine Action Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16520.m3u8
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="[hevc] TVCINE ACTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE ACTIONᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21669.m3u8
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCINE EMOTIONˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/345.m3u8
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCine Emotion Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCine Emotion Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16519.m3u8
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="[hevc] TVCINE EMOTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Emotion%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE EMOTIONᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21667.m3u8
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCINE EDITIONˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/344.m3u8
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCine Edition Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16518.m3u8
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="[hevc] TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE EDITIONᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21665.m3u8
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSˢᵈ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS.png" group-title="PORTUGAL SMART-HVEC",NOS STUDIOSˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16285.m3u8
+#EXTINF:-1 tvg-id="NOSSTUDIOS" tvg-name="Nos Studios Mobile" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS.png" group-title="PORTUGAL SMART-HVEC",Nos Studios Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16521.m3u8
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="[hevc] NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] NOS STUDIOSᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21680.m3u8
+#EXTINF:-1 tvg-id="Hollywood Low" tvg-name="HOLLYWOODˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Hollywood.png" group-title="PORTUGAL SMART-HVEC",HOLLYWOODˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/304.m3u8
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Hollywood.png" group-title="PORTUGAL SMART-HVEC",Hollywood Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16522.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="[hevc] HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] HOLLYWOODᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21681.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="STAR MOVIESˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL SMART-HVEC",STAR MOVIESˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/305.m3u8
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIES Mobile" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" group-title="PORTUGAL SMART-HVEC",STAR MOVIES Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/18226.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="[hevc] STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR MOVIESᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21677.m3u8
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name=" AXN MOVIES Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="PORTUGAL SMART-HVEC", AXN MOVIES Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/18225.m3u8
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="[hevc] AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXN MOVIESᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21676.m3u8
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CINEMUNDO.png" group-title="PORTUGAL SMART-HVEC",CINEMUNDOˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/270.m3u8
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo Mobile" tvg-logo="https://picons.my-ott.com/picons/CINEMUNDO.png" group-title="PORTUGAL SMART-HVEC",Cinemundo Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16523.m3u8
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="[hevc] CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CINEMUNDOᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21682.m3u8
+#EXTINF:-1 tvg-id="AMCLOW" tvg-name="AMCˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AMC.png" group-title="PORTUGAL SMART-HVEC",AMCˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/310.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AMC.png" group-title="PORTUGAL SMART-HVEC",AMC Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16533.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="[hevc] AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AMCᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21685.m3u8
+#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKˢᵈ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK.png" group-title="PORTUGAL SMART-HVEC",AMC BREAKˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/43381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦Smart SERIES✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart SERIES✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21634.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXNˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN.png" group-title="PORTUGAL SMART-HVEC",AXNˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21620.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN Mobile" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="PORTUGAL SMART-HVEC",AXN Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16524.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="[hevc] AXNᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXNᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21671.m3u8
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="PORTUGAL SMART-HVEC",AXN WHITEˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21623.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE HD (LOW BITRATE)" tvg-name="AXN WHITE MOBILE" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN%20WHITE.png" group-title="PORTUGAL SMART-HVEC",AXN WHITE MOBILE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22703.m3u8
+#EXTINF:-1 tvg-id="AXN White" tvg-name="[hevc] AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXN WHITEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21675.m3u8
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYˢᵈ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL SMART-HVEC",SYFYˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/309.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY Mobile" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL SMART-HVEC",SYFY Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21604.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="[hevc] SYFYᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="PORTUGAL SMART-HVEC",[hevc] SYFYᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22704.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="STARˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",STARˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21622.m3u8
+#EXTINF:-1 tvg-id="FOX LOW" tvg-name="STAR Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",STAR Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16525.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="[hevc] STARᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STARᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21673.m3u8
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",STAR CRIMEˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21619.m3u8
+#EXTINF:-1 tvg-id="FOXCRIMELOWOUHD" tvg-name="STAR CRIME Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",STAR CRIME Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/18227.m3u8
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="[hevc] STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR CRIMEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21678.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY LOW" tvg-name="STAR COMEDYˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",STAR COMEDYˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/313.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="STAR COMEDY Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",STAR COMEDY Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21607.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="[hevc] STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR COMEDYᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21679.m3u8
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC",STAR LIFEˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21625.m3u8
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR life Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC",STAR life Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21626.m3u8
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name=" [hevc] STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC", [hevc] STAR LIFEᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦Smart INFANTIL✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart INFANTIL✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21627.m3u8
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIORˢᵈ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_JUNIOR.png" group-title="PORTUGAL SMART-HVEC",DISNEY JUNIORˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/90.m3u8
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR Mobile" tvg-logo="https://picons.my-ott.com/picons/DISNEY_JUNIOR.png" group-title="PORTUGAL SMART-HVEC",DISNEY JUNIOR Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21599.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL LOW" tvg-name="DISNEY CHANNELˢᵈ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_CHANNEL.png" group-title="PORTUGAL SMART-HVEC",DISNEY CHANNELˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/88.m3u8
+#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL Mobile" tvg-logo="https://picons.my-ott.com/picons/DISNEY_CHANNEL.png" group-title="PORTUGAL SMART-HVEC",DISNEY CHANNEL Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21601.m3u8
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Junior Mobile" tvg-logo="https://img2.gratispng.com/20181111/cvh/kisspng-logo-nick-jr-television-pop-max-tiny-pop-nick-jr-5be824cdedd9d5.9032510315419404299743.jpg" group-title="PORTUGAL SMART-HVEC",Nick Junior Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21598.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="Sic Kids  Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20K.png" group-title="PORTUGAL SMART-HVEC",Sic Kids  Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21600.m3u8
+#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="PANDA BIGGS Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/PANDA%20BIGGS.png" group-title="PORTUGAL SMART-HVEC",PANDA BIGGS Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21605.m3u8
+#EXTINF:-1 tvg-id="PANDA" tvg-name="CANAL PANDAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20Panda.png" group-title="PORTUGAL SMART-HVEC",CANAL PANDAˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/86.m3u8
+#EXTINF:-1 tvg-id="CANAL PANDA LOW" tvg-name="Canal Panda Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20Panda.png" group-title="PORTUGAL SMART-HVEC",Canal Panda Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦Smart ENTRETENIMENTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart ENTRETENIMENTO✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21631.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITYˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI%20REALITY.png" group-title="PORTUGAL SMART-HVEC",TVI REALITYˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY  CAM1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY  CAM1
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/53640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAM2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM2
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/53641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAM3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM3
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/53642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAM4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM4
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/53643.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITY Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI%20REALITY.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21614.m3u8
+#EXTINF:-1 tvg-id="TVI Ficçao HD" tvg-name="TVI FICCAOˢᵈ" tvg-logo="https://imageshack.com/a/img922/858/hO27YZ.jpg" group-title="PORTUGAL SMART-HVEC",TVI FICCAOˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21056.m3u8
+#EXTINF:-1 tvg-id="TVI Ficçao HD" tvg-name="TVI FICCAO Mobile" tvg-logo="https://imageshack.com/a/img922/858/hO27YZ.jpg" group-title="PORTUGAL SMART-HVEC",TVI FICCAO Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21612.m3u8
+#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name=" [hevc] TVI FICCAOᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/TVI_FICCAO_HD.png" group-title="PORTUGAL SMART-HVEC", [hevc] TVI FICCAOᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22636.m3u8
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Tv Globoˢᵈ" tvg-logo="https://picons.my-ott.com/picons/GLOBO.png" group-title="PORTUGAL SMART-HVEC",Tv Globoˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/289.m3u8
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Tv Globo Mobile" tvg-logo="https://picons.my-ott.com/picons/GLOBO.png" group-title="PORTUGAL SMART-HVEC",Tv Globo Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16531.m3u8
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="[hevc] TV GLOBOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/GLOBO_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TV GLOBOᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21650.m3u8
+#EXTINF:-1 tvg-id="TVRECORDHD2" tvg-name="TV RECORDˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record.png" group-title="PORTUGAL SMART-HVEC",TV RECORDˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/290.m3u8
+#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="TV RECORD Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record.png" group-title="PORTUGAL SMART-HVEC",TV RECORD Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[hevc] TV RECORDᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TV RECORDᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22713.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC RADICALˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20Radical.png" group-title="PORTUGAL SMART-HVEC",SIC RADICALˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/43780.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="[hevc] SIC RADICALᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20RADICAL%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC RADICALᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/43779.m3u8
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARASˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20CARAS.png" group-title="PORTUGAL SMART-HVEC",SIC CARASˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/284.m3u8
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20CARAS.png" group-title="PORTUGAL SMART-HVEC",SIC CARAS Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21615.m3u8
+#EXTINF:-1 tvg-id="SICCARASHD" tvg-name="[hevc] SIC CARASᴴᴰ" tvg-logo="http://ghost-x99.uno:8080/images/e40b49b87db8df4314485ea3c1da6948.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC CARASᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21686.m3u8
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC MULHERˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER.png" group-title="PORTUGAL SMART-HVEC",SIC MULHERˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/273.m3u8
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER.png" group-title="PORTUGAL SMART-HVEC",SIC Mulher Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/16502.m3u8
+#EXTINF:-1 tvg-id="SicMulherHDFHD" tvg-name="[hevc] SIC MULHERᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC MULHERᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22708.m3u8
+#EXTINF:-1 tvg-id="Casa e Cozinha HD" tvg-name="CASA COZINHA Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PORTUGAL SMART-HVEC",CASA COZINHA Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21617.m3u8
+#EXTINF:-1 tvg-id="Casa e Cozinha HD" tvg-name="[hevc]  CASA COZINHAᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PORTUGAL SMART-HVEC",[hevc]  CASA COZINHAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21684.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 KITCHENˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/24%20KITCHEN.png" group-title="PORTUGAL SMART-HVEC",24 KITCHENˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/287.m3u8
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="FOOD NETWORKˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/Food%20Network.png" group-title="PORTUGAL SMART-HVEC",FOOD NETWORKˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/288.m3u8
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name=" FOOD NETWORK  Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/Food%20Network.png" group-title="PORTUGAL SMART-HVEC", FOOD NETWORK  Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21621.m3u8
+#EXTINF:-1 tvg-id="EENTER" tvg-name="E! ENTERTAINMENTˢᵈ" tvg-logo="https://e7.pngegg.com/pngimages/466/7/png-clipart-e-television-channel-television-show-logo-tv-x-letter-television-angle.png" group-title="PORTUGAL SMART-HVEC",E! ENTERTAINMENTˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/322.m3u8
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLCˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/TLC.png" group-title="PORTUGAL SMART-HVEC",TLCˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦Smart DOCUMENTÃRIOS✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DOCUMENTÃRIOS✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21630.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channelˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Discovery%20Channel.png" group-title="PORTUGAL SMART-HVEC",Discovery Channelˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/39102.m3u8
+#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographicˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NATIONAL%20GEOGRAPHIC.png" group-title="PORTUGAL SMART-HVEC",National Geographicˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/20372.m3u8
+#EXTINF:-1 tvg-id="NGC" tvg-name="[hevc]  National geographicᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc]  National geographicᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21683.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="National Geographic wildˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NAT%20GEO%20WILD.png" group-title="PORTUGAL SMART-HVEC",National Geographic wildˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/20373.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="[hevc] National Geographic wildᴴᴰ " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NAT%20GEO%20WILD%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] National Geographic wildᴴᴰ 
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21593.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID Investigation Discovery Mobile" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/ID_Logo_Screen_Reverse.png" group-title="PORTUGAL SMART-HVEC",ID Investigation Discovery Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21616.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Odisseia.png" group-title="PORTUGAL SMART-HVEC",ODISSEIAˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/326.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIA Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Odisseia.png" group-title="PORTUGAL SMART-HVEC",ODISSEIA Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21594.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="[hevc] ODISSEIAᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ODISSEIA_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ODISSEIAᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22709.m3u8
+#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20de%20Historia.png" group-title="PORTUGAL SMART-HVEC",HISTORIAˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/325.m3u8
+#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIA Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20de%20Historia.png" group-title="PORTUGAL SMART-HVEC",HISTORIA Mobile
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦ ✦ ✦Smart MUSICA✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart MUSICA✦ ✦ ✦
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/21628.m3u8
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE URBANˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="PORTUGAL SMART-HVEC",TRACE URBANˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/334.m3u8
+#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="KURIAKOS KIDS TVᴴᴰ" tvg-logo="https://imgur.com/Gj2RM4c.png" group-title="PORTUGAL SMART-HVEC",KURIAKOS KIDS TVᴴᴰ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/20306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="PORTUGAL SMART-HVEC",CNBC EUROPE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/44040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Bloomberg.png" group-title="PORTUGAL SMART-HVEC",BLOOMBERG
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/44039.m3u8
+#EXTINF:-1 tvg-id="CART" tvg-name="CARTOON  NETWORKˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/CARTOON%20NETWORK.png" group-title="PORTUGAL SMART-HVEC",CARTOON  NETWORKˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/94.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="CARTOONITO ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CARTOONITO.png" group-title="PORTUGAL SMART-HVEC",CARTOONITO ˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/22947.m3u8
+#EXTINF:-1 tvg-id="PANDA" tvg-name="PANDA KIDSˢᵈ" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2021/05/image001-9.png" group-title="PORTUGAL SMART-HVEC",PANDA KIDSˢᵈ
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/37582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLATINUM SEXXX" tvg-logo="https://www.pngfind.com/pngs/m/567-5671128_platinum-logo-png-transparent-platinum-png-download.png" group-title="FOR ADULTS",PLATINUM SEXXX
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/49082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| HOT TV PT" tvg-logo="https://directlogos.dotsi.pt/EuropaHD/XXX%20HOT.png" group-title="FOR ADULTS",|XX| HOT TV PT
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| PLAYBOY PT" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/XXX%20PLAYBOY.png" group-title="FOR ADULTS",|XX| PLAYBOY PT
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| VENUS TV PT" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/XXX%20VENUS.png" group-title="FOR ADULTS",|XX| VENUS TV PT
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| Babes TV" tvg-logo="https://img.redro.pl/fototapety/zaprojektowany-z-okragla-rozeta-wstazka-i-malymi-koronkami-400-148011124.jpg" group-title="FOR ADULTS",|XX| Babes TV
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| ALBA XXX HD1" tvg-logo="https://img.redro.pl/fototapety/zaprojektowany-z-okragla-rozeta-wstazka-i-malymi-koronkami-400-148011124.jpg" group-title="FOR ADULTS",|XX| ALBA XXX HD1
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| ALBA XXX HD2" tvg-logo="https://img.redro.pl/fototapety/zaprojektowany-z-okragla-rozeta-wstazka-i-malymi-koronkami-400-148011124.jpg" group-title="FOR ADULTS",|XX| ALBA XXX HD2
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| PENTHOUSE" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/XXX%20PENTHOUSE%20HD.png" group-title="FOR ADULTS",|XX| PENTHOUSE
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| HUSTLER HD" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/XXX%20HUSTLER%20HD.png" group-title="FOR ADULTS",|XX| HUSTLER HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| REDLIGHT HD" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/XXX%20Redlight%20HD.png" group-title="FOR ADULTS",|XX| REDLIGHT HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| EROXXX HD" tvg-logo="https://j6p3d5c7.stackpathcdn.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="FOR ADULTS",|XX| EROXXX HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| PRIVATE HD" tvg-logo="https://j6p3d5c7.stackpathcdn.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="FOR ADULTS",|XX| PRIVATE HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| DORCEL TV HD" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/XXX%20Dorcel.png" group-title="FOR ADULTS",|XX| DORCEL TV HD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| VIVID RED TV FHD" tvg-logo="https://j6p3d5c7.stackpathcdn.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="FOR ADULTS",|XX| VIVID RED TV FHD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| EvilAngel TV FHD" tvg-logo="https://img.redro.pl/fototapety/zaprojektowany-z-okragla-rozeta-wstazka-i-malymi-koronkami-400-148011124.jpg" group-title="FOR ADULTS",|XX| EvilAngel TV FHD
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| PASSIEXXX" tvg-logo="https://img.redro.pl/fototapety/zaprojektowany-z-okragla-rozeta-wstazka-i-malymi-koronkami-400-148011124.jpg" group-title="FOR ADULTS",|XX| PASSIEXXX
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| BLUE HUSTLER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png" group-title="FOR ADULTS",|XX| BLUE HUSTLER TV
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| PASIONXX" tvg-logo="https://img.redro.pl/fototapety/zaprojektowany-z-okragla-rozeta-wstazka-i-malymi-koronkami-400-148011124.jpg" group-title="FOR ADULTS",|XX| PASIONXX
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| VIVID TV" tvg-logo="https://j6p3d5c7.stackpathcdn.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="FOR ADULTS",|XX| VIVID TV
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| XXL" tvg-logo="https://img.redro.pl/fototapety/zaprojektowany-z-okragla-rozeta-wstazka-i-malymi-koronkami-400-148011124.jpg" group-title="FOR ADULTS",|XX| XXL
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|XX| EROX" tvg-logo="https://j6p3d5c7.stackpathcdn.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="FOR ADULTS",|XX| EROX
+http://yw66.bloodshot.eu:8080/live/ZXgngnSdqpGy/NGvwzeDtWvqt/45485.m3u8
