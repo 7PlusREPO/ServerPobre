@@ -116,6 +116,14 @@
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+   <channel>
+<name>[B][COLOR white]SERVIDOR FILMES E SERIES 15[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 14 [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/LISTA-FIL-SER.txt</externallink> 
+</channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++  
   
   
 </channels>
