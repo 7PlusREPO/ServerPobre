@@ -131,6 +131,21 @@
 <externallink>http://casaplay5g.win:8080/get.php?username=dora123&password=dora123&type=m3u_plus&output=m3u8</externallink> 
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++  
-  
+    <channel>
+<name>[B][COLOR white]SERVIDOR TESTE 16[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 14 [/COLOR]</info>
+<externallink>http://xciptv.aplicativos.top/get.php?username=746163457&password=5008672&type=m3u_plus</externallink> 
+</channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+      <channel>
+<name>[B][COLOR white]SERVIDOR TESTE 17[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 14 [/COLOR]</info>
+<externallink>http://suatv.fun/get.php?username=660837669337&password=238579037031&type=m3u_plus</externallink> 
+</channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
 </channels>
