@@ -91,5 +91,13 @@
 <externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/LISTA-FIL.txt</externallink> 
 </channel>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<channel>
+<name>[B][COLOR white]SERVIDOR SÉRIES[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxVp1XSp/live-tv.jpg</thumbnail>
+<fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 10 [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/ServerPobre/master/LISTA-SER.txtt</externallink> 
+</channel>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
 </channels>
