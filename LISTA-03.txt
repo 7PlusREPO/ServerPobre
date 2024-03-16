@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://pharay.club:8080/MjgGvxaWy7/aPj3RKbYqp/2.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://pharay.club:8080/MjgGvxaWy7/aPj3RKbYqp/2
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1ᶠᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://pharay.club:8080/MjgGvxaWy7/aPj3RKbYqp/3.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://pharay.club:8080/MjgGvxaWy7/aPj3RKbYqp/3
 #EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_2_HD.png" group-title="PORTUGAL HD",RTP 2ᴴᴰ
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]@PobreTV[/COLOR]&url=http://pharay.club:8080/MjgGvxaWy7/aPj3RKbYqp/4
 #EXTINF:-1 tvg-id="SIC" tvg-name="SICᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_HD.png" group-title="PORTUGAL HD",SICᴴᴰ
