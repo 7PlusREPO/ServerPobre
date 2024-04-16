@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+	<!-- opicional -->
+    <channels_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>News</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>divingmule, Johnny Cache</credits>
+    </channels_info>
+	<!-- opicional -->
+    
+    <channel>
+        <name>[B][COLOR white]SERVIDOR 1[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+                [COLOR blue]SERVIDOR 1[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-01.txt</externallink>
+    </channel>
+--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 2[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 2[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-02.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 3[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 3[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-03.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 4[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 4[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-04.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 5[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 5[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-05.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 6[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 6[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-06.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 7[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 7[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-07.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 8[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 8[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-08.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 9[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 9[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-09.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 10[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 10[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-10.txt</externallink>
+    </channel>
+	--------------------------------------------------------------------------------------------------------
+	<channel>
+        <name>[B][COLOR white]SERVIDOR 11[/COLOR][/B]</name>
+        <thumbnail>https://i.postimg.cc/Xv7wGfzF/NEO-TV-13-04-2024.png</thumbnail>
+        <fanart>https://i.postimg.cc/tRfnTg18/deadpool-2-movie-cinema.jpg</fanart>
+		<info>
+               [COLOR blue]SERVIDOR 11[/COLOR]
+                </info>
+		<externallink>http://takeoneplus.wuaze.com/LISTA-11.txt</externallink>
+    </channel>
+	
+
+</channels>	
