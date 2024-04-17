@@ -1,543 +1,543 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" group-title="VIP PORTUGAL",RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/1
 #EXTINF:-1 tvg-id="RTP 1 FHD" tvg-name="RTP 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" group-title="VIP PORTUGAL",RTP 1 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/3
 #EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="VIP PORTUGAL",RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/4
 #EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" group-title="VIP PORTUGAL",RTP 2 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/5
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" group-title="VIP PORTUGAL",SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/9142
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/9142
 #EXTINF:-1 tvg-id="SIC FHD" tvg-name="SIC (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" group-title="VIP PORTUGAL",SIC (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/8
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="VIP PORTUGAL",TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/9
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/9
 #EXTINF:-1 tvg-id="TVI FHD" tvg-name="TVI (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" group-title="VIP PORTUGAL",TVI (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/225
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/225
 #EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" group-title="VIP PORTUGAL",RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/11
 #EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" group-title="VIP PORTUGAL",RTP 3 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22158
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22158
 #EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC Noticias" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" group-title="VIP PORTUGAL",SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/24
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/24
 #EXTINF:-1 tvg-id="SIC NOTÍCIAS FHD" tvg-name="SIC Noticias (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" group-title="VIP PORTUGAL",SIC Noticias (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/25
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/25
 #EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN Portugal" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" group-title="VIP PORTUGAL",CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/26
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/26
 #EXTINF:-1 tvg-id="CNN Portugal FHD" tvg-name="CNN Portugal (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" group-title="VIP PORTUGAL",CNN Portugal (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/269
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/269
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" group-title="VIP PORTUGAL",CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22
 #EXTINF:-1 tvg-id="CMTV FHD" tvg-name="CMTV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" group-title="VIP PORTUGAL",CMTV (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/23
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/23
 #EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="Porto Canal" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.png" group-title="VIP PORTUGAL",Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/65
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/65
 #EXTINF:-1 tvg-id="PORTO CANAL FHD" tvg-name="Porto Canal (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.1080p.png" group-title="VIP PORTUGAL",Porto Canal (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/23281
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/23281
 #EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC Mulher" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" group-title="VIP PORTUGAL",SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/17
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/17
 #EXTINF:-1 tvg-id="SIC MULHER FHD" tvg-name="SIC Mulher (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" group-title="VIP PORTUGAL",SIC Mulher (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/24261
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/24261
 #EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC Radical" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" group-title="VIP PORTUGAL",SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/16
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/16
 #EXTINF:-1 tvg-id="SIC RADICAL FHD" tvg-name="SIC Radical (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" group-title="VIP PORTUGAL",SIC Radical (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22165
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22165
 #EXTINF:-1 tvg-id="SIC CARAS" tvg-name="SIC Caras" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.png" group-title="VIP PORTUGAL",SIC Caras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/18
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/18
 #EXTINF:-1 tvg-id="SIC CARAS FHD" tvg-name="SIC Caras (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.1080p.png" group-title="VIP PORTUGAL",SIC Caras (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30029
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30029
 #EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="TVI Ficção" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.png" group-title="VIP PORTUGAL",TVI Ficção
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/21
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/21
 #EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-name="TVI Ficção (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.1080p.png" group-title="VIP PORTUGAL",TVI Ficção (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/20843
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/20843
 #EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="RTP Africa" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Africa.png" group-title="VIP PORTUGAL",RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/12
 #EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP Madeira" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Madeira.png" group-title="VIP PORTUGAL",RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/15
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/15
 #EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="RTP Açores" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Acores.png" group-title="VIP PORTUGAL",RTP Açores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/13
 #EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="RTP Memória" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Memoria.png" group-title="VIP PORTUGAL",RTP Memória
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/14
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/14
 #EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="VIP PORTUGAL",TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/20
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/20
 #EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" group-title="VIP PORTUGAL",TVI Reality (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/21593
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/21593
 #EXTINF:-1 tvg-id="TVI REALITY MOSAICO" tvg-name="TVI Reality ✬Mosaico✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Mosaico.png" group-title="VIP PORTUGAL",TVI Reality ✬Mosaico✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30330
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30330
 #EXTINF:-1 tvg-id="TVI REALITY CAMERA 1" tvg-name="TVI Reality ✬Camera 1✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam1.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 1✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30331
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30331
 #EXTINF:-1 tvg-id="TVI REALITY CAMERA 2" tvg-name="TVI Reality ✬Camera 2✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam2.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 2✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30332
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30332
 #EXTINF:-1 tvg-id="TVI REALITY CAMERA 3" tvg-name="TVI Reality ✬Camera 3✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam3.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 3✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30333
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30333
 #EXTINF:-1 tvg-id="TVI REALITY CAMERA 4" tvg-name="TVI Reality ✬Camera 4✬" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam4.png" group-title="VIP PORTUGAL",TVI Reality ✬Camera 4✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/76344
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/76344
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo" tvg-logo="http://mylogos.xyz/LogosPT/Globo.png" group-title="VIP PORTUGAL",Globo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/164
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/164
 #EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TV" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" group-title="VIP PORTUGAL",A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/27
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/27
 #EXTINF:-1 tvg-id="A BOLA FHD" tvg-name="A Bola TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" group-title="VIP PORTUGAL",A Bola TV (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22167
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22167
 #EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" group-title="VIP PORTUGAL",CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/23282
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/23282
 #EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" group-title="VIP PORTUGAL",Canal 11 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32
 #EXTINF:-1 tvg-id="SPORT TV+" tvg-name="Sport TV+" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV+.png" group-title="VIP PORTUGAL",Sport TV+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/34
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/34
 #EXTINF:-1 tvg-id="SPORT TV+ FHD" tvg-name="Sport TV+ (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportTV+.png" group-title="VIP PORTUGAL",Sport TV+ (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/35
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/35
 #EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="Sport TV 1" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/36
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/36
 #EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="Sport TV 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" group-title="VIP PORTUGAL",Sport TV 1 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/49
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/49
 #EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="Sport TV 1 ✬Alternativa✬" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.1080p.png" group-title="VIP PORTUGAL",Sport TV 1 ✬Alternativa✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31013
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31013
 #EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="Sport TV 1 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.H265.png" group-title="VIP PORTUGAL",Sport TV 1 ✬H265✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22171
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22171
 #EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="Sport TV 2" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/37
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/37
 #EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="Sport TV 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" group-title="VIP PORTUGAL",Sport TV 2 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/50
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/50
 #EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="Sport TV 3" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/38
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/38
 #EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="Sport TV 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" group-title="VIP PORTUGAL",Sport TV 3 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/51
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/51
 #EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="Sport TV 4" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/39
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/39
 #EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="Sport TV 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" group-title="VIP PORTUGAL",Sport TV 4 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/14143
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/14143
 #EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="Sport TV 5" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.png" group-title="VIP PORTUGAL",Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/40
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/40
 #EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="Sport TV 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.1080P.png" group-title="VIP PORTUGAL",Sport TV 5 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/283
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/283
 #EXTINF:-1 tvg-id="SPORT TV 6" tvg-name="Sport TV 6" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/73258
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/73258
 #EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="Sport TV 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" group-title="VIP PORTUGAL",Sport TV 6 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/73259
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/73259
 #EXTINF:-1 tvg-id="SPORT TV NBA FHD" tvg-name="Sport TV NBA" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV.NBA.1080P.png" group-title="VIP PORTUGAL",Sport TV NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/41
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/41
 #EXTINF:-1 tvg-id="BTV" tvg-name="Benfica TV" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.png" group-title="VIP PORTUGAL",Benfica TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29
 #EXTINF:-1 tvg-id="BTV FHD" tvg-name="Benfica TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" group-title="VIP PORTUGAL",Benfica TV (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30
 #EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV ✬Alternativa✬" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" group-title="VIP PORTUGAL",Benfica TV ✬Alternativa✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31016
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31016
 #EXTINF:-1 tvg-id="BTV HD" tvg-name="Benfica TV ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.H265.png" group-title="VIP PORTUGAL",Benfica TV ✬H265✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22169
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22169
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="Eleven Sports 1" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.png" group-title="VIP PORTUGAL",Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/52
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/52
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 1 FHD" tvg-name="Eleven Sports 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 1 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/54
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/54
 #EXTINF:-1 tvg-id="eleven.1.pt" tvg-name="Eleven Sports 1 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.H265.png" group-title="VIP PORTUGAL",Eleven Sports 1 ✬H265✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/24166
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/24166
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/55
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/55
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD" tvg-name="Eleven Sports 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" group-title="VIP PORTUGAL",Eleven Sports 2 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/57
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/57
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Eleven Sports 2 ✬H265✬" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.H265.png" group-title="VIP PORTUGAL",Eleven Sports 2 ✬H265✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/24167
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/24167
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="Eleven Sports 3" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/58
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/58
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD" tvg-name="Eleven Sports 3 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" group-title="VIP PORTUGAL",Eleven Sports 3 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/60
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/60
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="Eleven Sports 4" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.png" group-title="VIP PORTUGAL",Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/284
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/284
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD" tvg-name="Eleven Sports 4 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 4 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/61
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/61
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="Eleven Sports 5" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.png" group-title="VIP PORTUGAL",Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/286
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/286
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-name="Eleven Sports 5 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 5 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/62
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/62
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="Eleven Sports 6" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.png" group-title="VIP PORTUGAL",Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/289
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/289
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 6 FHD" tvg-name="Eleven Sports 6 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.1080P.png" group-title="VIP PORTUGAL",Eleven Sports 6 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/63
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/63
 #EXTINF:-1 tvg-id="SPORTING TV" tvg-name="Sporting TV" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.png" group-title="VIP PORTUGAL",Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/64
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/64
 #EXTINF:-1 tvg-id="SPORTING TV FHD" tvg-name="Sporting TV (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.1080p.png" group-title="VIP PORTUGAL",Sporting TV (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/23285
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/23285
 #EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="Eurosport 1" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.png" group-title="VIP PORTUGAL",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/70
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/70
 #EXTINF:-1 tvg-id="EUROSPORT 1 FHD" tvg-name="Eurosport 1 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.1080p.png" group-title="VIP PORTUGAL",Eurosport 1 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/71
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/71
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="Eurosport 2" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" group-title="VIP PORTUGAL",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/72
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/72
 #EXTINF:-1 tvg-id="EUROSPORT 2 FHD" tvg-name="Eurosport 2 (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" group-title="VIP PORTUGAL",Eurosport 2 (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/73
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/73
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Kids✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Kids.png" group-title="VIP PORTUGAL",Play ✬Kids✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31158
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31158
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Disney✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Disney.png" group-title="VIP PORTUGAL",Play ✬Disney✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31159
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31159
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Pixar✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Pixar.png" group-title="VIP PORTUGAL",Play ✬Pixar✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/42316
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/42316
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬DreamWorks✬" tvg-logo="http://mylogos.xyz/LogosPT/Play.Dreamworks.png" group-title="VIP PORTUGAL",Play ✬DreamWorks✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/43227
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/43227
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Luccas Neto✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.LucasNeto.png" group-title="VIP PORTUGAL",Play ✬Luccas Neto✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31163
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31163
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Artista da Semana✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.ArtistaDaSemana.png" group-title="VIP PORTUGAL",Play ✬Artista da Semana✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32074
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32074
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Cinema✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Cinema.png" group-title="VIP PORTUGAL",Play ✬Cinema✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32138
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32138
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Acção✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Accao.png" group-title="VIP PORTUGAL",Play ✬Acção✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31166
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31166
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Comédias✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Comedias.png" group-title="VIP PORTUGAL",Play ✬Comédias✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32978
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32978
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Dramas✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Dramas.png" group-title="VIP PORTUGAL",Play ✬Dramas✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31165
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31165
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Ficção e Fantasia✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.FiccaoFantasia.png" group-title="VIP PORTUGAL",Play ✬Ficção e Fantasia✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32137
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32137
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Marvel✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel1.png" group-title="VIP PORTUGAL",Play ✬Marvel✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32076
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32076
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Marvel 2✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel2.png" group-title="VIP PORTUGAL",Play ✬Marvel 2✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/43300
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/43300
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬DC Comics✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.DCcomics.png" group-title="VIP PORTUGAL",Play ✬DC Comics✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32979
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32979
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Sagas e Trilogias✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Sagas.png" group-title="VIP PORTUGAL",Play ✬Sagas e Trilogias✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32152
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32152
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Western✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Western.2021.png" group-title="VIP PORTUGAL",Play ✬Western✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32151
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32151
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Terror✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Terror.png" group-title="VIP PORTUGAL",Play ✬Terror✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/33009
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/33009
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Cinema Português✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.CinemaTuga.png" group-title="VIP PORTUGAL",Play ✬Cinema Português✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/113486
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/113486
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Documentários✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Documentarios.png" group-title="VIP PORTUGAL",Play ✬Documentários✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/82513
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/82513
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Tomorrowland✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Tomorrowland.png" group-title="VIP PORTUGAL",Play ✬Tomorrowland✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32139
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32139
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Dj´s✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Djs.png" group-title="VIP PORTUGAL",Play ✬Dj´s✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32136
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/32136
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Music✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Music.png" group-title="VIP PORTUGAL",Play ✬Music✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31160
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31160
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Concerts✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Concerts.png" group-title="VIP PORTUGAL",Play ✬Concerts✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31161
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/31161
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬The Voice✬" tvg-logo="http://mylogos.xyz/LogosPlay/Play.TheVoice.png" group-title="VIP PORTUGAL",Play ✬The Voice✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/33010
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/33010
 #EXTINF:-1 tvg-id="" tvg-name="Play ✬Stand-Up Comedy✬" tvg-logo="http://mylogos.xyz/LogosPlay/PlayStandup.png" group-title="VIP PORTUGAL",Play ✬Stand-Up Comedy✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/48741
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/48741
 #EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCine Top" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="VIP PORTUGAL",TVCine Top
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/83
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/83
 #EXTINF:-1 tvg-id="TVCine TOP FHD" tvg-name="TVCine Top (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" group-title="VIP PORTUGAL",TVCine Top (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/84
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/84
 #EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCine Edition" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.png" group-title="VIP PORTUGAL",TVCine Edition
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/85
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/85
 #EXTINF:-1 tvg-id="TVCine EDITION FHD" tvg-name="TVCine Edition (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.1080p.png" group-title="VIP PORTUGAL",TVCine Edition (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/86
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/86
 #EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCine Emotion" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="VIP PORTUGAL",TVCine Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/87
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/87
 #EXTINF:-1 tvg-id="TVCine EMOTION FHD" tvg-name="TVCine Emotion (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" group-title="VIP PORTUGAL",TVCine Emotion (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/88
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/88
 #EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="TVCine Action" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="VIP PORTUGAL",TVCine Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/89
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/89
 #EXTINF:-1 tvg-id="TVCine ACTION FHD" tvg-name="TVCine Action (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" group-title="VIP PORTUGAL",TVCine Action (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/90
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/90
 #EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS Studios" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="VIP PORTUGAL",NOS Studios
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/14142
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/14142
 #EXTINF:-1 tvg-id="NOS STUDIOS FHD" tvg-name="Nos studios (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" group-title="VIP PORTUGAL",Nos studios (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/100
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/100
 #EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="VIP PORTUGAL",Cinemundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/97
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/97
 #EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="Cinemundo (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" group-title="VIP PORTUGAL",Cinemundo (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22183
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22183
 #EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="Hollywood" tvg-logo="http://mylogos.xyz/LogosPT/hollywood.png" group-title="VIP PORTUGAL",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/95
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/95
 #EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="Hollywood (FullHD)" tvg-logo="http://naoadianta696969.live:80/images/b0bac411b0b17f4e7538dd0f42023d02.png" group-title="VIP PORTUGAL",Hollywood (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/96
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/96
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" group-title="VIP PORTUGAL",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/104
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/104
 #EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" group-title="VIP PORTUGAL",AMC (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/105
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/105
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://mylogos.xyz/LogosPT/axn.png" group-title="VIP PORTUGAL",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/106
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/106
 #EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.1080p.png" group-title="VIP PORTUGAL",AXN (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/107
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/107
 #EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.png" group-title="VIP PORTUGAL",AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/110
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/110
 #EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN White (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.1080p.png" group-title="VIP PORTUGAL",AXN White (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/111
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/111
 #EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN Movies" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="VIP PORTUGAL",AXN Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/108
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/108
 #EXTINF:-1 tvg-id="AXN MOVIES FHD" tvg-name="AXN Movies (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" group-title="VIP PORTUGAL",AXN Movies (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/109
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/109
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="FOX" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="VIP PORTUGAL",FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/112
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/112
 #EXTINF:-1 tvg-id="FOX PT" tvg-name="FOX (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" group-title="VIP PORTUGAL",FOX (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/113
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/113
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX Life" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" group-title="VIP PORTUGAL",FOX Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/116
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/116
 #EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="FOX Life (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" group-title="VIP PORTUGAL",FOX Life (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/117
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/117
 #EXTINF:-1 tvg-id="FOX CRIME" tvg-name="FOX Crime" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" group-title="VIP PORTUGAL",FOX Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115
 #EXTINF:-1 tvg-id="FOX CRIME FHD" tvg-name="FOX Crime (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" group-title="VIP PORTUGAL",FOX Crime (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/101
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/101
 #EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="FOX Movies" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" group-title="VIP PORTUGAL",FOX Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/102
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/102
 #EXTINF:-1 tvg-id="FOX MOVIES FHD" tvg-name="FOX Movies (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" group-title="VIP PORTUGAL",FOX Movies (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/25830
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/25830
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="FOX Comedy" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" group-title="VIP PORTUGAL",FOX Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/114
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/114
 #EXTINF:-1 tvg-id="FOX COMEDY FHD" tvg-name="FOX Comedy (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" group-title="VIP PORTUGAL",FOX Comedy (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29332
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29332
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://mylogos.xyz/LogosPT/Syfy.png" group-title="VIP PORTUGAL",SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/93
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/93
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Channel.png" group-title="VIP PORTUGAL",Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/124
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/124
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="Disney Junior" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Junior.png" group-title="VIP PORTUGAL",Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/123
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/123
 #EXTINF:-1 tvg-id="BIGGS" tvg-name="Biggs" tvg-logo="http://mylogos.xyz/LogosPT/Biggs.png" group-title="VIP PORTUGAL",Biggs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/120
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/120
 #EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20K.png" group-title="VIP PORTUGAL",SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/128
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/128
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/CARTOON%20NETWORK.png" group-title="VIP PORTUGAL",Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/122
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/122
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nickelodeon.png" group-title="VIP PORTUGAL",Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/125
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/125
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr." tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nick%20Jr..png" group-title="VIP PORTUGAL",Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/126
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/126
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BABY%20TV.png" group-title="VIP PORTUGAL",Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/118
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/118
 #EXTINF:-1 tvg-id="Panda KIDS" tvg-name="Panda Kids" tvg-logo="http://mylogos.xyz/LogosPT/Panda.Kids.png" group-title="VIP PORTUGAL",Panda Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/76617
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/76617
 #EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Canal%20Panda.png" group-title="VIP PORTUGAL",Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/121
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/121
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Boomerang.png" group-title="VIP PORTUGAL",Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/119
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/119
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="Nat Geo" tvg-logo="http://mylogos.xyz/LogosPT/NatGeo.png" group-title="VIP PORTUGAL",Nat Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30057
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30057
 #EXTINF:-1 tvg-id="NAT GEO WILD FHD" tvg-name="Nat Geo Wild" tvg-logo="http://mylogos.xyz/LogosPT/NatGeoWild.png" group-title="VIP PORTUGAL",Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/140
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/140
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="Discovery Channel" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="VIP PORTUGAL",Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/134
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/134
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL FHD" tvg-name="Discovery Channel (FullHD)" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" group-title="VIP PORTUGAL",Discovery Channel (FullHD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/136
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/136
 #EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-name="Investigation Discovery" tvg-logo="http://mylogos.xyz/LogosPT/InvestigationDiscovery.png" group-title="VIP PORTUGAL",Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30061
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/30061
 #EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime Investigation" tvg-logo="http://mylogos.xyz/LogosPT/CrimeInvestigation.png" group-title="VIP PORTUGAL",Crime Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/133
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/133
 #EXTINF:-1 tvg-id="TRAVEL CHANNEL FHD" tvg-name="Travel Channel" tvg-logo="http://mylogos.xyz/LogosPT/Travel.Channel.png" group-title="VIP PORTUGAL",Travel Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/152
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/152
 #EXTINF:-1 tvg-id="ODISSEIA" tvg-name="Odisseia" tvg-logo="http://mylogos.xyz/LogosPT/Odisseia.png" group-title="VIP PORTUGAL",Odisseia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/146
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/146
 #EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="História" tvg-logo="http://mylogos.xyz/LogosPT/Historia.png" group-title="VIP PORTUGAL",História
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/148
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/148
 #EXTINF:-1 tvg-id="CANAL Q" tvg-name="Canal Q" tvg-logo="http://mylogos.xyz/LogosPT/CanalQ.png" group-title="VIP PORTUGAL",Canal Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/169
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/169
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://mylogos.xyz/LogosPT/TLC.png" group-title="VIP PORTUGAL",TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/151
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/151
 #EXTINF:-1 tvg-id="CASA E COZINHA FHD" tvg-name="Casa e Cozinha" tvg-logo="http://mylogos.xyz/LogosPT/CasaCozinha.png" group-title="VIP PORTUGAL",Casa e Cozinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22238
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/22238
 #EXTINF:-1 tvg-id="24 KITCHEN FHD" tvg-name="24 Kitchen" tvg-logo="http://mylogos.xyz/LogosPT/24Kitchen.png" group-title="VIP PORTUGAL",24 Kitchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/129
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/129
 #EXTINF:-1 tvg-id="FOOD NETWORK FHD" tvg-name="Food Network" tvg-logo="http://mylogos.xyz/LogosPT/FoodNetwork.1080p.png" group-title="VIP PORTUGAL",Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29358
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29358
 #EXTINF:-1 tvg-id="FUEL TV FHD" tvg-name="Fuel TV" tvg-logo="http://mylogos.xyz/LogosPT/FuelTV.png" group-title="VIP PORTUGAL",Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/69
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/69
 #EXTINF:-1 tvg-id="MOTORVISION FHD" tvg-name="Motorvision" tvg-logo="http://mylogos.xyz/LogosPT/MotorvisionTV.png" group-title="VIP PORTUGAL",Motorvision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/82
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/82
 #EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="Caça e Pesca" tvg-logo="http://mylogos.xyz/LogosPT/CazaPesca.png" group-title="VIP PORTUGAL",Caça e Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/132
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/132
 #EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="Caçavision" tvg-logo="http://mylogos.xyz/LogosPT/Cazavision.png" group-title="VIP PORTUGAL",Caçavision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/131
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/131
 #EXTINF:-1 tvg-id="TOROS TV" tvg-name="Toros TV" tvg-logo="http://mylogos.xyz/LogosPT/TorosTv.png" group-title="VIP PORTUGAL",Toros TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/80
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/80
 #EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV" tvg-logo="http://boxlogos.top/LogosPT/MundotoroTV.png" group-title="VIP PORTUGAL",Mundotoro TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/114300
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/114300
 #EXTINF:-1 tvg-id="FIGHT NETWORK FHD" tvg-name="Fight Network" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/fight_netowrk.png" group-title="VIP PORTUGAL",Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29357
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29357
 #EXTINF:-1 tvg-id="Cancao Nova PT" tvg-name="Canção Nova" tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="VIP PORTUGAL",Canção Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/25555
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/25555
 #EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="Afro Music" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/AFRO%20MUSIC.png" group-title="VIP PORTUGAL",Afro Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/171
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/171
 #EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM Pop" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/MCM%20POP.png" group-title="VIP PORTUGAL",MCM Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/174
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/174
 #EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="MTV Portugal" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Mtv%20Portugal.png" group-title="VIP PORTUGAL",MTV Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/173
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/173
 #EXTINF:-1 tvg-id="MTV LIVE FHD" tvg-name="MTV Live" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Mtv%20Live.png" group-title="VIP PORTUGAL",MTV Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29240
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29240
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="MTV 00's" tvg-logo="http://mylogos.xyz/LogosPT/MTV00s.png" group-title="VIP PORTUGAL",MTV 00's
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/181
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/181
 #EXTINF:-1 tvg-id="MEZZO Live FHD" tvg-name="Mezzo Live" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/MEZZO%20HD.png" group-title="VIP PORTUGAL",Mezzo Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29361
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29361
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="Blaze" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Blaze%20HD.png" group-title="VIP PORTUGAL",Blaze
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/15353
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/15353
 #EXTINF:-1 tvg-id="TV RECORD" tvg-name="TV Record" tvg-logo="http://mylogos.xyz/LogosPT/RecordTV.png" group-title="VIP PORTUGAL",TV Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/162
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/162
 #EXTINF:-1 tvg-id="ZAPVIVA" tvg-name="ZAP Viva" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/zapviva.png" group-title="VIP PORTUGAL",ZAP Viva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/26293
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/26293
 #EXTINF:-1 tvg-id="Euronews PT" tvg-name="EURONEWS ✬Portugal✬" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/euronews.png" group-title="VIP PORTUGAL",EURONEWS ✬Portugal✬
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29067
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/29067
 #EXTINF:-1 tvg-id="BBC ENTERTAINMENT" tvg-name="BBC Entertainment" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BBC%20Entertainment.png" group-title="VIP PORTUGAL",BBC Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/156
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/156
 #EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-name="TPA (Angola)" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/TPA%20INTERNACIONAL.png" group-title="VIP PORTUGAL",TPA (Angola)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/26294
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/26294
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE" tvg-logo="" group-title="FOR ADULTS",XXX: PENTHOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115643
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115643
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE GOLD" tvg-logo="" group-title="FOR ADULTS",XXX: PENTHOUSE GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115644
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115644
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="" group-title="FOR ADULTS",XXX: PENTHOUSE QUICKIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115645
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115645
 #EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL" tvg-logo="" group-title="FOR ADULTS",XXX: DORCEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115646
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115646
 #EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX" tvg-logo="" group-title="FOR ADULTS",XXX: DORCEL XXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115647
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115647
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER" tvg-logo="" group-title="FOR ADULTS",XXX: HUSTLER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115648
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115648
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",XXX: HUSTLER TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115649
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115649
 #EXTINF:-1 tvg-id="" tvg-name="XXX: XXL" tvg-logo="" group-title="FOR ADULTS",XXX: XXL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115650
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115650
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX" tvg-logo="" group-title="FOR ADULTS",XXX: PASSIE XXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115651
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115651
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX" tvg-logo="" group-title="FOR ADULTS",XXX: PASSION XXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115652
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115652
 #EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN AFFAIR" tvg-logo="" group-title="FOR ADULTS",XXX: LESBIAN AFFAIR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115653
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115653
 #EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT" tvg-logo="" group-title="FOR ADULTS",XXX: SEXY HOT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115654
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115654
 #EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS" tvg-logo="" group-title="FOR ADULTS",XXX: VENUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115655
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115655
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HOT" tvg-logo="" group-title="FOR ADULTS",XXX: HOT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115656
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115656
 #EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME" tvg-logo="" group-title="FOR ADULTS",XXX: SEXTREME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115657
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115657
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS" tvg-logo="" group-title="FOR ADULTS",XXX: BRAZZERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115658
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115658
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PURE BABES TV" tvg-logo="" group-title="FOR ADULTS",XXX: PURE BABES TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115659
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115659
 #EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV GOLD" tvg-logo="" group-title="FOR ADULTS",XXX: LEO TV GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115660
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115660
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL" tvg-logo="" group-title="FOR ADULTS",XXX: EVIL ANGEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115661
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115661
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY TV" tvg-logo="" group-title="FOR ADULTS",XXX: PLAYBOY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115662
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115662
 #EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT" tvg-logo="" group-title="FOR ADULTS",XXX: REDLIGHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115663
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115663
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE TV" tvg-logo="" group-title="FOR ADULTS",XXX: PRIVATE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115664
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115664
 #EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED" tvg-logo="" group-title="FOR ADULTS",XXX: VIVID RED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115665
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115665
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EROX XXX" tvg-logo="" group-title="FOR ADULTS",XXX: EROX XXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115666
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115666
 #EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE" tvg-logo="" group-title="FOR ADULTS",XXX: SUPER ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115667
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115667
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV" tvg-logo="" group-title="FOR ADULTS",XXX: BABES TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115668
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115668
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYHOUSE" tvg-logo="" group-title="FOR ADULTS",XXX: PLAYHOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115669
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115669
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HOT PLEASURE" tvg-logo="" group-title="FOR ADULTS",XXX: HOT PLEASURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115670
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115670
 #EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV" tvg-logo="" group-title="FOR ADULTS",XXX: MILF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115671
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115671
 #EXTINF:-1 tvg-id="" tvg-name="XXX: FRENCH LOVER TV" tvg-logo="" group-title="FOR ADULTS",XXX: FRENCH LOVER TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115672
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115672
 #EXTINF:-1 tvg-id="" tvg-name="XXX: SECRET CIRCLE TV" tvg-logo="" group-title="FOR ADULTS",XXX: SECRET CIRCLE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115673
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115673
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EXXXOTICA TV" tvg-logo="" group-title="FOR ADULTS",XXX: EXXXOTICA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115674
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115674
 #EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV EUROPE" tvg-logo="" group-title="FOR ADULTS",XXX: VIVID TV EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115675
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115675
 #EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK!" tvg-logo="" group-title="FOR ADULTS",XXX: DUSK!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115676
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115676
 #EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV" tvg-logo="" group-title="FOR ADULTS",XXX: REALITY KINGS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115677
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115677
 #EXTINF:-1 tvg-id="" tvg-name="XXX: MEIDEN VAN HOLLAND HARD" tvg-logo="" group-title="FOR ADULTS",XXX: MEIDEN VAN HOLLAND HARD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115678
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115678
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC" tvg-logo="" group-title="FOR ADULTS",XXX: PINK EROTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115679
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115679
 #EXTINF:-1 tvg-id="" tvg-name="XXX: LUST PUR" tvg-logo="" group-title="FOR ADULTS",XXX: LUST PUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115680
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115680
 #EXTINF:-1 tvg-id="" tvg-name="XXX: FANTASY TV" tvg-logo="" group-title="FOR ADULTS",XXX: FANTASY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115681
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115681
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE" tvg-logo="" group-title="FOR ADULTS",XXX: PLAYBOY EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115682
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115682
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK TV" tvg-logo="" group-title="FOR ADULTS",XXX: BLACK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115683
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115683
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER" tvg-logo="" group-title="FOR ADULTS",XXX: BLUE HUSTLER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115684
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115684
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED" tvg-logo="" group-title="FOR ADULTS",XXX: BLACKED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115685
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115685
 #EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSIAN NIGHT" tvg-logo="" group-title="FOR ADULTS",XXX: RUSSIAN NIGHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115686
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115686
 #EXTINF:-1 tvg-id="" tvg-name="XXX: THREESOME" tvg-logo="" group-title="FOR ADULTS",XXX: THREESOME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115687
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115687
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BARELY LEGAL TV" tvg-logo="" group-title="FOR ADULTS",XXX: BARELY LEGAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115688
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115688
 #EXTINF:-1 tvg-id="" tvg-name="XXX: NUART TV" tvg-logo="" group-title="FOR ADULTS",XXX: NUART TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115689
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115689
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PINK O TV" tvg-logo="" group-title="FOR ADULTS",XXX: PINK O TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115690
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115690
 #EXTINF:-1 tvg-id="" tvg-name="XXX: O LA LA TV" tvg-logo="" group-title="FOR ADULTS",XXX: O LA LA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115691
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115691
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE PASSION" tvg-logo="" group-title="FOR ADULTS",XXX: PENTHOUSE PASSION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115692
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115692
 #EXTINF:-1 tvg-id="" tvg-name="XXX: SEX PRIVE" tvg-logo="" group-title="FOR ADULTS",XXX: SEX PRIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115693
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115693
 #EXTINF:-1 tvg-id="" tvg-name="XXX: CANDYMAN GAY MEN" tvg-logo="" group-title="FOR ADULTS",XXX: CANDYMAN GAY MEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115694
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115694
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U" tvg-logo="" group-title="FOR ADULTS",XXX: BANG U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115695
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115695
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BANGERZ" tvg-logo="" group-title="FOR ADULTS",XXX: BANGERZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115696
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115696
 #EXTINF:-1 tvg-id="" tvg-name="XXX: SEX ATION" tvg-logo="" group-title="FOR ADULTS",XXX: SEX ATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115697
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115697
 #EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER" tvg-logo="" group-title="FOR ADULTS",XXX: OLDTIMER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115698
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115698
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY" tvg-logo="" group-title="FOR ADULTS",XXX: EXTASY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115699
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115699
 #EXTINF:-1 tvg-id="" tvg-name="XXX: RED XXX" tvg-logo="" group-title="FOR ADULTS",XXX: RED XXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115700
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115700
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME" tvg-logo="" group-title="FOR ADULTS",XXX: EXTREME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115701
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115701
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EMANUELLE" tvg-logo="" group-title="FOR ADULTS",XXX: EMANUELLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115702
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115702
 #EXTINF:-1 tvg-id="" tvg-name="XXX: SHELK" tvg-logo="" group-title="FOR ADULTS",XXX: SHELK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115703
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115703
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL" tvg-logo="" group-title="FOR ADULTS",XXX: HOT XXL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115704
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115704
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PINKO CLUB" tvg-logo="" group-title="FOR ADULTS",XXX: PINKO CLUB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115705
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115705
 #EXTINF:-1 tvg-id="" tvg-name="XXX: CENT & CENTO" tvg-logo="" group-title="FOR ADULTS",XXX: CENT & CENTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115706
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115706
 #EXTINF:-1 tvg-id="" tvg-name="XXX: DREAM PORN" tvg-logo="" group-title="FOR ADULTS",XXX: DREAM PORN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115707
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115707
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC" tvg-logo="" group-title="FOR ADULTS",XXX: BALKAN EROTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115708
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115708
 #EXTINF:-1 tvg-id="" tvg-name="XXX: FAST BOYZ" tvg-logo="" group-title="FOR ADULTS",XXX: FAST BOYZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115709
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115709
 #EXTINF:-1 tvg-id="" tvg-name="XXX: X-MO" tvg-logo="" group-title="FOR ADULTS",XXX: X-MO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115710
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115710
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA" tvg-logo="" group-title="FOR ADULTS",XXX: ALBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115711
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115711
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EROX" tvg-logo="" group-title="FOR ADULTS",XXX: EROX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115712
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115712
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PERVMOM" tvg-logo="" group-title="FOR ADULTS",XXX: PERVMOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115713
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115713
 #EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN" tvg-logo="" group-title="FOR ADULTS",XXX: VIXEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115714
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115714
 #EXTINF:-1 tvg-id="" tvg-name="XXX: NAUGHTY TV" tvg-logo="" group-title="FOR ADULTS",XXX: NAUGHTY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115715
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115715
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HOT MAN" tvg-logo="" group-title="FOR ADULTS",XXX: HOT MAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115716
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115716
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HOT TABOO" tvg-logo="" group-title="FOR ADULTS",XXX: HOT TABOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115717
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115717
 #EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV TEENS" tvg-logo="" group-title="FOR ADULTS",XXX: FAP TV TEENS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115718
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115718
 #EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV LESBIAN" tvg-logo="" group-title="FOR ADULTS",XXX: FAP TV LESBIAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115719
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115719
 #EXTINF:-1 tvg-id="" tvg-name="XXX: FAP TV COMPILATION" tvg-logo="" group-title="FOR ADULTS",XXX: FAP TV COMPILATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115720
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115720
 #EXTINF:-1 tvg-id="" tvg-name="XXX: X1" tvg-logo="" group-title="FOR ADULTS",XXX: X1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115721
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115721
 #EXTINF:-1 tvg-id="" tvg-name="XXX: X BIZARRE" tvg-logo="" group-title="FOR ADULTS",XXX: X BIZARRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115722
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115722
 #EXTINF:-1 tvg-id="" tvg-name="XXX: X DESIRE" tvg-logo="" group-title="FOR ADULTS",XXX: X DESIRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115723
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115723
 #EXTINF:-1 tvg-id="" tvg-name="XXX: X BUNGA BUNGA" tvg-logo="" group-title="FOR ADULTS",XXX: X BUNGA BUNGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115724
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115724
 #EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS" tvg-logo="" group-title="FOR ADULTS",XXX: XY PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115725
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115725
 #EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX" tvg-logo="" group-title="FOR ADULTS",XXX: XY MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115726
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115726
 #EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX" tvg-logo="" group-title="FOR ADULTS",XXX: XY MIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115727
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow]@Neo.TVp[/COLOR]&url=http://pegasus.tvvip.live:8080/dragonblue10/35463dragon/115727
